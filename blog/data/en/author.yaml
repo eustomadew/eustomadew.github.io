@@ -1,0 +1,19 @@
+# some information about you
+name: "Yijun Bian"
+nickname: "Yijun"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/eustomaqua.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  # email: "johndoe@example.com"
+  # phone: "+0123456789"
+  email: "yjbian92@gmail.com"
+
+# some summary about what you do
+summary:
+  - I am a Researcher
+  - I am a Developer
+  - I love servers
+  - I work on open-source projects
+  - I love to work with some fun projects
