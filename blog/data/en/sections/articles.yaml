@@ -1,0 +1,27 @@
+# section information
+section:
+  name: Publications # arXiv
+  id: education
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+degrees:
+- institution:
+    name: Y Bian and H Chen, “When Does Diversity Help Generalization in Classification Ensembles?” IEEE Transactions on Cybernetics, early access, Feb. 26, 2021, doi 10.1109/TCYB.2021.3053165.
+    # When does Diversity Help Generalization in Classification Ensembles? 
+    url: "https://arxiv.org/abs/1910.13631"
+  publications:
+
+- institution:
+    name: Y Bian, Y Wang, Y Yao and H Chen, “Ensemble Pruning Based on Objection Maximization With a General Distributed Framework,” IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3766–3774, Sept 2020.
+    # Ensemble Pruning based on Objection Maximization with a General Distributed Framework
+    url: "https://ieeexplore.ieee.org/abstract/document/8891828"
+  
+- institution:
+    name: Y Bian, Q Song, M Du, J Yao, H Chen and X Hu, “Subarchitecture Ensemble Pruning in Neural Architecture Search,” IEEE Transactions on Neural Networks and Learning Systems, early access, Jun. 18, 2021, doi 10.1109/TNNLS.2021.3085299.
+    # Sub-Architecture Ensemble Pruning in Neural Architecture Search
+    url: "https://ieeexplore.ieee.org/document/9460115"

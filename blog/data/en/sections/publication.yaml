@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Publications
+  id: skills
+  enable: false # true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: TCYB
+  summary: "When does Diversity Help Generalization in Classification Ensembles?"
+  url: "https://arxiv.org/abs/1910.13631"
+
+- name: TNNLS
+  summary: "Ensemble Pruning based on Objection Maximization with a General Distributed Framework"
+  url: "https://ieeexplore.ieee.org/abstract/document/8891828"
+
+- name: TNNLS
+  summary: "Sub-Architecture Ensemble Pruning in Neural Architecture Search"
+  url: "https://ieeexplore.ieee.org/document/9460115"
