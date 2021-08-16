@@ -19,7 +19,7 @@ resume: "files/resume.pdf"
 
 # a summary about you
 # summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
-summary: 'I am a Ph.D. student from the Department of Computer Science and Technology, University of Science and Technology of China (USTC). I am very fortunate to be supervised by Prof. [Huanhuan Chen](http://staff.ustc.edu.cn/~hchen/). Prior to that, I obtained my bachelor degree from the College of Science, Northwest A&F University (NWAFU) in July, 2014.'
+summary: "I am a Ph.D. student from the Department of Computer Science and Technology, University of Science and Technology of China (USTC). I am very fortunate to be supervised by Prof. [Huanhuan Chen](http://staff.ustc.edu.cn/~hchen/). Before that, I received my bachelor's degree from the College of Science, Northwest A&F University (NWAFU) in July 2014."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -33,6 +33,15 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/yijunbian/"
+- name: Scholar
+  icon: "fab fa-google"
+  url: "https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao"
+- name: ORCID
+  icon: ""
+  url: "https://orcid.org/0000-0002-5926-7100"
+# - name: dblp
+#   icon: "ai ai-google-scholar-square"
+#   url: "https://dblp.uni-trier.de/pid/222/1897.html"
 # - name: Stackoverflow
 #   icon: "fab fa-stack-overflow"
 #   url: "#"

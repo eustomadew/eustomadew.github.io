@@ -1,8 +1,8 @@
 # section information
 section:
   name: Publications
-  id: skills
-  enable: false # true
+  id: accomplishments
+  enable: true
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -10,15 +10,30 @@ section:
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
-skills:
-- name: TCYB
-  summary: "When does Diversity Help Generalization in Classification Ensembles?"
-  url: "https://arxiv.org/abs/1910.13631"
+accomplishments:
+- name: When does Diversity Help Generalization in Classification Ensembles?
+  timeline: "Date of Publication: 26 February 2021"
+  organization: 
+    name: IEEE Transactions on Cybernetics # TCYB
+    url: https://arxiv.org/abs/1910.13631
+  courseOverview: "Authors: Yijun Bian and Huanhuan Chen" # Authors including
+  # Ensembles, as a widely used and effective technique in the machine learning community, succeed within a key element--``diversity.'' The relationship between diversity and generalization, unfortunately, is not entirely understood and remains an open research issue. To reveal the effect of diversity on the generalization of classification ensembles, we investigate three issues on diversity, that is, the measurement of diversity, the relationship between the proposed diversity and the generalization error, and the utilization of this relationship for ensemble pruning. In the diversity measurement, we measure diversity by error decomposition inspired by regression ensembles, which decompose the error of classification ensembles into accuracy and diversity. Then, we formulate the relationship between the measured diversity and ensemble performance through the theorem of margin and generalization and observe that the generalization error is reduced effectively only when the measured diversity is increased in a few specific ranges, while in other ranges, larger diversity is less beneficial to increasing the generalization of an ensemble. Besides, we propose two pruning methods based on diversity management to utilize this relationship, which could increase diversity appropriately and shrink the size of the ensemble without much-decreasing performance. The empirical results validate the reasonableness of the proposed relationship between diversity and ensemble generalization error and the effectiveness of the proposed pruning methods.
+  certificateURL: "http://dx.doi.org/10.1109/TCYB.2021.3053165"
 
-- name: TNNLS
-  summary: "Ensemble Pruning based on Objection Maximization with a General Distributed Framework"
-  url: "https://ieeexplore.ieee.org/abstract/document/8891828"
+- name: Ensemble Pruning based on Objection Maximization with a General Distributed Framework
+  timeline: "Date of Publication: 05 November 2019"
+  organization:
+    name: IEEE Transactions on Neural Networks and Learning Systems # TNNLS
+    url: https://arxiv.org/abs/1806.04899
+  courseOverview: "Authors: Yijun Bian, Yijun Wang, Yaqiang Yao, and Huanhuan Chen" # Authors including
+  # Ensemble pruning, selecting a subset of individual learners from an original ensemble, alleviates the deficiencies of ensemble learning on the cost of time and space. Accuracy and diversity serve as two crucial factors, while they usually conflict with each other. To balance both of them, we formalize the ensemble pruning problem as an objection maximization problem based on information entropy. Then we propose an ensemble pruning method, including a centralized version and a distributed version, in which the latter is to speed up the former. Finally, we extract a general distributed framework for ensemble pruning, which can be widely suitable for most of the existing ensemble pruning methods and achieve less time-consuming without much accuracy degradation. Experimental results validate the efficiency of our framework and methods, particularly concerning a remarkable improvement of the execution speed, accompanied by gratifying accuracy performance.
+  certificateURL: "https://doi.org/10.1109/TNNLS.2019.2945116"
 
-- name: TNNLS
-  summary: "Sub-Architecture Ensemble Pruning in Neural Architecture Search"
-  url: "https://ieeexplore.ieee.org/document/9460115"
+- name: Sub-Architecture Ensemble Pruning in Neural Architecture Search
+  timeline: "Date of Publication: 18 June 2021"
+  organization:
+    name: IEEE Transactions on Neural Networks and Learning Systems # TNNLS
+    url: https://arxiv.org/abs/1910.00370
+  courseOverview: "Authors: Yijun Bian, Qingquan Song, Mengnan Du, Jun Yao, Huanhuan Chen, and Xia Hu" # Authors including 
+  # Neural architecture search (NAS) is gaining more and more attention in recent years because of its flexibility and remarkable capability to reduce the burden of neural network design. To achieve better performance, however, the searching process usually costs massive computations that might not be affordable for researchers and practitioners. Although recent attempts have employed ensemble learning methods to mitigate the enormous computational cost, however, they neglect a key property of ensemble methods, namely diversity, which leads to collecting more similar subarchitectures with potential redundancy in the final design. To tackle this problem, we propose a pruning method for NAS ensembles called ``subarchitecture ensemble pruning in neural architecture search (SAEP).'' It targets to leverage diversity and to achieve subensemble architectures at a smaller size with comparable performance to ensemble architectures that are not pruned. Three possible solutions are proposed to decide which subarchitectures to prune during the searching process. Experimental results exhibit the effectiveness of the proposed method by largely reducing the number of subarchitectures without degrading the performance.
+  certificateURL: "https://doi.org/10.1109/TNNLS.2021.3085299"

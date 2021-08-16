@@ -1,27 +1,71 @@
 # section information
 section:
-  name: Publications # arXiv
+  name: Experiences # Publications, arXiv
   id: education
+  template: sections/education.html
+  # template: sections/education-alt.html
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
 
 # Your experiences
 degrees:
-- institution:
-    name: Y Bian and H Chen, “When Does Diversity Help Generalization in Classification Ensembles?” IEEE Transactions on Cybernetics, early access, Feb. 26, 2021, doi 10.1109/TCYB.2021.3053165.
-    # When does Diversity Help Generalization in Classification Ensembles? 
-    url: "https://arxiv.org/abs/1910.13631"
+# - name: Shanghai Institute of Microsystem and Information Technology
+#   icon:
+#   timeframe: December 2020 - Present
+#   institution:
+#     name: Algorithm Engineer
+#     url: "#"
+- name: # Shenzhen, Guangdong, China
+  icon: fa-university # fa-microscope
+  timeframe: Shenzhen, Guangdong, China # December 2019 - March 2020
+  institution:
+    name: Tencent
+    url: "#"
   publications:
+    - title: "Research Intern, Platform & Content Group (PCG), December 2019 to March 2020"
+- name: # Beijing, China
+  icon: fa-university # fa-graduation-cap
+  timeframe: Beijing, China # "Aug to Oct 2019, Aug 2018" # 2010-2012
+  institution:
+    name: RICH AI
+    url: "#"
+  publications:
+    - title: NLP Algorithm Engineer Intern, August to October 2019 # August 2019 - October 2019
+    - title: Image Algorithm Engineer Intern, August 2018
+- name: # College Station, TX, United States
+  icon: fa-microscope # fa-school
+  timeframe: College Station, TX, United States # Nov 2018 - Apr 2019 # November 2018 - April 2019 # 2005-2010
+  institution:
+    name: Texas A&M University
+    url: "#"
+  publications:
+    - title: Visiting Research Student, DATA Lab, November 2018 to April 2019 # Scholar
+- name: # Hefei, Anhui, China
+  icon: fa-graduation-cap # fa-school
+  timeframe: "Hefei, Anhui, China" # "Sept 2014 to Nov 2020"
+  institution:
+    name: University of Science and Technology of China
+    url: "#"
+  publications:
+    - title: Graduate Research Assistant, September 2014 to November 2020
+    - title: Teaching Assistant, School of Mathematical Sciences, March to July 2016
 
-- institution:
-    name: Y Bian, Y Wang, Y Yao and H Chen, “Ensemble Pruning Based on Objection Maximization With a General Distributed Framework,” IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3766–3774, Sept 2020.
-    # Ensemble Pruning based on Objection Maximization with a General Distributed Framework
-    url: "https://ieeexplore.ieee.org/abstract/document/8891828"
-  
-- institution:
-    name: Y Bian, Q Song, M Du, J Yao, H Chen and X Hu, “Subarchitecture Ensemble Pruning in Neural Architecture Search,” IEEE Transactions on Neural Networks and Learning Systems, early access, Jun. 18, 2021, doi 10.1109/TNNLS.2021.3085299.
-    # Sub-Architecture Ensemble Pruning in Neural Architecture Search
-    url: "https://ieeexplore.ieee.org/document/9460115"
+# degrees:
+# - institution:
+#     name: Y Bian and H Chen, “When Does Diversity Help Generalization in Classification Ensembles?” IEEE Transactions on Cybernetics, early access, Feb. 26, 2021, doi 10.1109/TCYB.2021.3053165.
+#     # When does Diversity Help Generalization in Classification Ensembles? 
+#     url: "https://arxiv.org/abs/1910.13631"
+#   publications:
+#
+# - institution:
+#     name: Y Bian, Y Wang, Y Yao and H Chen, “Ensemble Pruning Based on Objection Maximization With a General Distributed Framework,” IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3766–3774, Sept 2020.
+#     # Ensemble Pruning based on Objection Maximization with a General Distributed Framework
+#     url: "https://ieeexplore.ieee.org/abstract/document/8891828"
+#  
+# - institution:
+#     name: Y Bian, Q Song, M Du, J Yao, H Chen and X Hu, “Subarchitecture Ensemble Pruning in Neural Architecture Search,” IEEE Transactions on Neural Networks and Learning Systems, early access, Jun. 18, 2021, doi 10.1109/TNNLS.2021.3085299.
+#     # Sub-Architecture Ensemble Pruning in Neural Architecture Search
+#     url: "https://ieeexplore.ieee.org/document/9460115"

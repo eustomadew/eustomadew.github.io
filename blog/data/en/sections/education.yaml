@@ -15,7 +15,7 @@ experiences:
     url: "http://en.ustc.edu.cn/"
     location: Hefei, Anhui, China
     # company overview
-    overview: Ph.D. in Computer Science and Technology #, School of Computer Science and Technology
+    overview: Ph.D. degree, Department of Computer Science and Technology # Ph.D. in Computer Science and Technology #, School of Computer Science and Technology
   positions:
   - designation: University of Science and Technology of China (USTC)
     start: September 2014
@@ -23,20 +23,21 @@ experiences:
     end: November 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Ph.D. in Computer Science and Technology
-    - Master student in Computer Science and Technology
-    - Overall GPA 3.65 (Grade 86.87)
-    - Ranking 2/37 (10/114 as a master student)
+      - Ph.D. in Computer Science and Technology (Since Sept 2016)
+      - Master student in Computer Science and Technology (Sept 2014 to Aug 2016)
+      - Dissertation "Research and Applications of Diversity in Ensemble Classification"
+    # - Overall GPA 3.65 (Grade 86.87)
+    # - Ranking 2/37 (10/114 as a master student)
 
 - company:
     name: # PreExample Co.
     url: "https://en.nwsuaf.edu.cn/"
     location: Yangling, Shaanxi, China # Nowhere
-    overview: B.S. in Computational Mathematics #, College of Science # Bachelor of Science
+    overview: B.S. degree in Computational Mathematics, College of Science # Bachelor of Science
   positions:
-  - designation: Northwest A&F University
+  - designation: Northwest A&F University (NWAFU)
     start: September 2010
     end: July 2014
-    responsibilities:
-    - Overall GPA 3.44 (Grade 87.68)
-    - Ranking 5/47
+    # responsibilities:
+    # - Overall GPA 3.44 (Grade 87.68)
+    # - Ranking 5/47
