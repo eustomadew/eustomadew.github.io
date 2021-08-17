@@ -55,7 +55,7 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-badges:
+# badges:
 # - type: certification
 #   name: Coursera Deep Learning Specialization
 #   url: "https://coursera.org/share/c56a9670f3df6c376a038abe7b4dbd47"
