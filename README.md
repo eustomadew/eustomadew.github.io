@@ -20,5 +20,8 @@ $ $ git push origin master
 
 $ git push origin master --allow-unrelated-histories
 $ git status
-$ git push
+$ git add .
+$ git commit -m "Update on 19 Aug 2021, Thu 23:57 PM"  # format
+$ # git push
+$ git push --set-upstream origin master
 ```
