@@ -2,7 +2,8 @@
 Homepage: Academic or Coder theme
 
 [hugo-toha theme](https://github.com/hugo-toha/hugo-toha.github.io)  
-[如何用 hugo 搭建博客](https://zhuanlan.zhihu.com/p/126298572)
+[如何用 hugo 搭建博客](https://zhuanlan.zhihu.com/p/126298572)  
+[git 无法push远程仓库 Note about fast-forwards 问题解决](https://blog.csdn.net/weixin_42596434/article/details/88759295)  
 
 ```shell
 $ hugo server  # http://localhost:1313
@@ -15,5 +16,9 @@ $ git init
 $ git add .
 $ git commit -m "first personal homepage"
 $ git remote add origin git@github.com:eustomadew/eustomadew.github.io
-$ git push origin master
+$ $ git push origin master
+
+$ git push origin master --allow-unrelated-histories
+$ git status
+$ git push
 ```
