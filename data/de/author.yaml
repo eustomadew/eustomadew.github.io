@@ -1,0 +1,15 @@
+# some information about you
+name: "Yijun Bian"
+nickname: "Jasmin"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi Ich bin"
+image: "images/eustomaqua.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  Email: "yjbian92@gmail.com"
+
+# some summary about what you do
+summary:
+  - Ich bin Doktorand und liebe meine Forschung
+  - Ich arbeite an Open-Source-Projekten
+  - Ich genieße es, Wissen mit Freunden zu teilen
