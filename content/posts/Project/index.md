@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2021-08-16T08:06:25+06:00
+date: 2021-09-18T08:06:25+06:00
 description: Projects
 menu:
   sidebar:
@@ -25,8 +25,8 @@ Greeting! This is an introduction post. This post tests the followings:
 
 **Projects**
 
-- **EPFD** [repo](https://github.com/eustomaqua/EPFD), *Apr 2020*
-- **PyEnsemble** [repo](https://github.com/eustomaqua/PyEnsemble), *Jul 2019 to Apr 2020*
+- **EPFD** [released repo](https://github.com/eustomaqua/EPFD), *Apr 2020*
+- **PyEnsemble** [released repo](https://github.com/eustomaqua/PyEnsemble), *Jul 2019 to Apr 2020*
 
 **Professional Services**
 
@@ -34,8 +34,9 @@ Greeting! This is an introduction post. This post tests the followings:
   - IEEETransactions on Neural Networks and Learning Systems
   - Neural Networks
 - **Open Source Contributor**
-  - AdaNet, *Oct 2019*
-  - OpenNE, *Aug 2019*
+  - AdaNet [merged pull request](https://github.com/tensorflow/adanet/pull/133), *Oct 2019*
+  - OpenNE [merged pull request](https://github.com/thunlp/OpenNE/pull/81), *Aug 2019*
+  - AutoKeras [merged pull requests a](https://github.com/keras-team/autokeras/pull/656), [and b](https://github.com/keras-team/autokeras/pull/666), *Jun 2019*
 - **Volunteer**
   - GDG Shanghai, *Mar 2021 to Present*
 

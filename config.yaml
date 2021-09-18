@@ -10,12 +10,12 @@ languages:
   en:
     languageName: English
     weight: 1
-  de:
-    languageName: Deutsch # German
-    weight: 2
-  fr:
-    languageName: français # Franch
-    weight: 3
+  # de:
+  #   languageName: Deutsch # German
+  #   weight: 2
+  # fr:
+  #   languageName: français # Franch
+  #   weight: 3
 
 # Control TOC depth
 markup:

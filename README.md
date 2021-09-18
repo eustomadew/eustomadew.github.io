@@ -2,6 +2,7 @@
 Homepage: Academic or Coder theme
 
 [Hugo Themes](https://themes.gohugo.io/)  
+[Hugo Theme - Guide](https://github.com/hugo-toha/guides/tree/main/content/posts)  
 [Hugo Theme - Coder](https://themes.gohugo.io/themes/hugo-coder/)  
 [Hugo Theme - toha](https://themes.gohugo.io/themes/toha/)  
 

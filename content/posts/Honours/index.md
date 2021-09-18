@@ -1,10 +1,10 @@
 ---
-title: "Major Honors & Awards"
-date: 2021-08-16T08:06:25+06:00
+title: "Selected Honors & Awards"
+date: 2021-09-18T07:06:25+06:00
 description: Projects
 menu:
   sidebar:
-    name: "Major Awards"
+    name: "Selected Awards"
     identifier: achievements accomplishments
     weight: 14
 ---
@@ -14,6 +14,7 @@ menu:
 
 - GDC Technology Scholarship, *Oct 2019*
 - International Exchange Funding for Excellent Students, *Apr 2018*
+- First-class Academic Scholarship, *Sept 2015*
 
 <!--
 - Second Prize Academic Scholarship *(Sept 2018 to Sept 2016, Sept 2014)*

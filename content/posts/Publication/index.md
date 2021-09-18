@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2021-08-16T08:06:25+06:00
+date: 2021-09-18T09:06:25+06:00
 description: Research articles
 menu:
   sidebar:
@@ -8,6 +8,10 @@ menu:
     identifier: publications
     weight: 11
 ---
+
+<!--
+date: 2021-08-16T08:06:25+06:00
+-->
 
 <!--
 Greeting! This is an introduction post. This post tests the followings:
