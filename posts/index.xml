@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Aqua Eustoma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Aug 2021 08:06:25 +0600</lastBuildDate><atom:link href="https://eustomadew.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Sep 2021 09:06:25 +0600</lastBuildDate><atom:link href="https://eustomadew.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resultados de Búsqueda</title>
       <link>https://eustomadew.github.io/search/</link>
@@ -177,6 +177,40 @@ Initial setup Search depends on additional output content type of JSON in config
     </item>
     
     <item>
+      <title>Publications</title>
+      <link>https://eustomadew.github.io/posts/publication/</link>
+      <pubDate>Sat, 18 Sep 2021 09:06:25 +0600</pubDate>
+      
+      <guid>https://eustomadew.github.io/posts/publication/</guid>
+      <description>Y Bian and H Chen, “When Does Diversity Help Generalization in Classification Ensembles?” IEEE Transactions on Cybernetics, early access, Feb. 26, 2021, doi: 10.1109/TCYB.2021.3053165.
+Y Bian, Y Wang, Y Yao and H Chen, “Ensemble Pruning Based on Objection Maximization With a General Distributed Framework,” IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3766–3774, Sept 2020. Available Online
+Y Bian, Q Song, M Du, J Yao, H Chen and X Hu, “Subarchitecture Ensemble Pruning in Neural Architecture Search,” IEEE Transactions on Neural Networks and Learning Systems, early access, Jun.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://eustomadew.github.io/posts/project/</link>
+      <pubDate>Sat, 18 Sep 2021 08:06:25 +0600</pubDate>
+      
+      <guid>https://eustomadew.github.io/posts/project/</guid>
+      <description>Technical Skills
+ Programming Language: Python, MATLAB, C/C++ Deep Learning Tools: Keras, TensorFlow, PyTorch  Projects
+ EPFD released repo, Apr 2020 PyEnsemble released repo, Jul 2019 to Apr 2020  Professional Services
+ Journal Reviewer  IEEETransactions on Neural Networks and Learning Systems Neural Networks   Open Source Contributor  AdaNet merged pull request, Oct 2019 OpenNE merged pull request, Aug 2019 AutoKeras merged pull requests a, and b, Jun 2019   Volunteer  GDG Shanghai, Mar 2021 to Present    </description>
+    </item>
+    
+    <item>
+      <title>Selected Honors &amp; Awards</title>
+      <link>https://eustomadew.github.io/posts/honours/</link>
+      <pubDate>Sat, 18 Sep 2021 07:06:25 +0600</pubDate>
+      
+      <guid>https://eustomadew.github.io/posts/honours/</guid>
+      <description>Awarded at the University of Science and Technology of China (USTC)
+ GDC Technology Scholarship, Oct 2019 International Exchange Funding for Excellent Students, Apr 2018 First-class Academic Scholarship, Sept 2015  Awarded at the Northwest A&amp;amp;F University (NWAFU)
+ Outstanding Undergraduate Graduation Thesis (Design), Jun 2014 President Scholarship, Dec 2013 Excellence Award of the Undergraduate Innovation Forum and Finding Presentation, Jan 2013 Merit Student, for three consecutive years, Dec 2013 to Dec 2011 First Prize Professional Scholarship, four times in a row, Oct 2013 to Mar 2011 Best Debater in the Freshman Cup Debate, Nov 2010  </description>
+    </item>
+    
+    <item>
       <title>Education</title>
       <link>https://eustomadew.github.io/posts/education/</link>
       <pubDate>Mon, 16 Aug 2021 08:06:25 +0600</pubDate>
@@ -199,40 +233,6 @@ Initial setup Search depends on additional output content type of JSON in config
  Visiting Research Student, Nov 2018 to Apr 2019
 DATA Lab, Dept. of Computer Science &amp;amp; Engineering, Texas A&amp;amp;M University  Graduate Research Assistant, Sept 2014 to Nov 2020
 UBRI, Dept. of Computer Science &amp;amp; Technology, USTC  Teaching Assistant, Mar to Jul 2016</description>
-    </item>
-    
-    <item>
-      <title>Major Honors &amp; Awards</title>
-      <link>https://eustomadew.github.io/posts/honours/</link>
-      <pubDate>Mon, 16 Aug 2021 08:06:25 +0600</pubDate>
-      
-      <guid>https://eustomadew.github.io/posts/honours/</guid>
-      <description>Awarded at the University of Science and Technology of China (USTC)
- GDC Technology Scholarship, Oct 2019 International Exchange Funding for Excellent Students, Apr 2018  Awarded at the Northwest A&amp;amp;F University (NWAFU)
- Outstanding Undergraduate Graduation Thesis (Design), Jun 2014 President Scholarship, Dec 2013 Excellence Award of the Undergraduate Innovation Forum and Finding Presentation, Jan 2013 Merit Student, for three consecutive years, Dec 2013 to Dec 2011 First Prize Professional Scholarship, four times in a row, Oct 2013 to Mar 2011 Best Debater in the Freshman Cup Debate, Nov 2010  </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://eustomadew.github.io/posts/project/</link>
-      <pubDate>Mon, 16 Aug 2021 08:06:25 +0600</pubDate>
-      
-      <guid>https://eustomadew.github.io/posts/project/</guid>
-      <description>Technical Skills
- Programming Language: Python, MATLAB, C/C++ Deep Learning Tools: Keras, TensorFlow, PyTorch  Projects
- EPFD repo, Apr 2020 PyEnsemble repo, Jul 2019 to Apr 2020  Professional Services
- Journal Reviewer  IEEETransactions on Neural Networks and Learning Systems Neural Networks   Open Source Contributor  AdaNet, Oct 2019 OpenNE, Aug 2019   Volunteer  GDG Shanghai, Mar 2021 to Present    </description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://eustomadew.github.io/posts/publication/</link>
-      <pubDate>Mon, 16 Aug 2021 08:06:25 +0600</pubDate>
-      
-      <guid>https://eustomadew.github.io/posts/publication/</guid>
-      <description>Y Bian and H Chen, “When Does Diversity Help Generalization in Classification Ensembles?” IEEE Transactions on Cybernetics, early access, Feb. 26, 2021, doi: 10.1109/TCYB.2021.3053165.
-Y Bian, Y Wang, Y Yao and H Chen, “Ensemble Pruning Based on Objection Maximization With a General Distributed Framework,” IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3766–3774, Sept 2020. Available Online
-Y Bian, Q Song, M Du, J Yao, H Chen and X Hu, “Subarchitecture Ensemble Pruning in Neural Architecture Search,” IEEE Transactions on Neural Networks and Learning Systems, early access, Jun.</description>
     </item>
     
   </channel>
