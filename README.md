@@ -4,11 +4,20 @@ Homepage: Academic or Coder theme
 [Hugo Themes](https://themes.gohugo.io/)  
 [Hugo Theme - Coder](https://themes.gohugo.io/themes/hugo-coder/)  
 [Hugo Theme - toha](https://themes.gohugo.io/themes/toha/)  
+[font awesome icons](https://fontawesome.com/v6.0/icons?s=solid%2Cbrands)  
 
 [Hugo-toha Theme](https://github.com/hugo-toha/hugo-toha.github.io)  
 [Hugo-toha Guide](https://github.com/hugo-toha/guides/tree/main/content/posts)  
 [如何用 hugo 搭建博客](https://zhuanlan.zhihu.com/p/126298572)  
 [git 无法push远程仓库 Note about fast-forwards 问题解决](https://blog.csdn.net/weixin_42596434/article/details/88759295)  
+
+[Nick Galbreath, CTO and co-founder](https://www.client9.com/using-font-awesome-icons-in-hugo/)  
+[Font Awesome in Hugo](https://matze.rocks/posts/fontawesome_in_hugo/)  
+[每次调用加密需要先清理public目录并生成一次](https://github.com/Li4n0/hugo_encryptor/issues/15)  
+[Hugo 博客自定义优化 awesome font](https://shishuochen.gitee.io/2020/uffick8u1/)  
+[Hugo 新手道場](https://hugo-for-newbie.kejyun.com/docs/theme/documentation/docsy/install/)  
+[将自定义图标添加到超赞的字体](https://qastack.cn/programming/11426172/add-custom-icons-to-font-awesome)  
+
 
 ```shell
 $ hugo new site blog

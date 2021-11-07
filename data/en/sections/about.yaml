@@ -33,12 +33,22 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/yijunbian/"
-- name: Scholar
-  icon: "fab fa-google"
-  url: "https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao"
+# - name: Scholar
+#   icon: "fab fa-google"
+#   url: "https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao"
 - name: ORCID
-  icon: ""
+  icon: "fab fa-orcid"
   url: "https://orcid.org/0000-0002-5926-7100"
+- name: Scholar
+  icon: "fas fa-graduation-cap"
+  url: "https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao"
+# - name: dblp
+#   icon: "fas fa-graduation-cap"
+#   url: "https://dblp.org/pid/222/1897.html"
+# - name: Publons
+#   icon: "fas"
+#   url: "https://publons.com/researcher/3747550/yijun-bian/"
+
 # - name: dblp
 #   icon: "ai ai-google-scholar-square"
 #   url: "https://dblp.uni-trier.de/pid/222/1897.html"
