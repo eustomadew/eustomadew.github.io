@@ -18,7 +18,7 @@ Greeting! This is an introduction post. This post tests the followings:
 -->
 
 
-**University of Science and Technology of China** (USTC), Hefei, Anhui, China
+**University of Science and Technology of China** (USTC), Hefei, Anhui, P.R. China
 
 - Ph.D. in Computer Science and Technology (Sept 2016 - Nov 2020)
 - Master student in Computer Science and Technology (Sept 2014 - Aug 2016)
@@ -35,7 +35,7 @@ Greeting! This is an introduction post. This post tests the followings:
 - Research on utilizing ensemble learning in neural architecture search
 -->
 
-**Northwest A&F University** (NWAFU), Yangling, Shaanxi, China
+**Northwest A&F University** (NWAFU), Yangling, Shaanxi, P.R. China
 
 - B.S. in Computational Mathematics, College of Science
 - Overall GPA 3.44 (Grade 87.68), Ranking: 5/47

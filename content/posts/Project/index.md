@@ -31,8 +31,9 @@ Greeting! This is an introduction post. This post tests the followings:
 **Professional Services**
 
 - **Journal Reviewer**
-  - IEEETransactions on Neural Networks and Learning Systems
+  - IEEE Transactions on Neural Networks and Learning Systems
   - Neural Networks
+  - IEEE Transactions on Emerging Topics in Computational Intelligence
 - **Open Source Contributor**
   - AdaNet [merged pull request](https://github.com/tensorflow/adanet/pull/133), *Oct 2019*
   - OpenNE [merged pull request](https://github.com/thunlp/OpenNE/pull/81), *Aug 2019*
