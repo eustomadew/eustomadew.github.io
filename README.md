@@ -10,6 +10,7 @@ Homepage: Academic or Coder theme
 [Hugo-toha Guide](https://github.com/hugo-toha/guides/tree/main/content/posts)  
 [如何用 hugo 搭建博客](https://zhuanlan.zhihu.com/p/126298572)  
 [git 无法push远程仓库 Note about fast-forwards 问题解决](https://blog.csdn.net/weixin_42596434/article/details/88759295)  
+[hugo-toha.github.io data en sections about.yaml](https://github.com/hugo-toha/hugo-toha.github.io/blob/source/data/en/sections/about.yaml)  
 
 [Nick Galbreath, CTO and co-founder](https://www.client9.com/using-font-awesome-icons-in-hugo/)  
 [Font Awesome in Hugo](https://matze.rocks/posts/fontawesome_in_hugo/)  
