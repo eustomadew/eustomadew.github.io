@@ -39,7 +39,7 @@ socialLinks:
 - name: ORCID
   icon: "fab fa-orcid"
   url: "https://orcid.org/0000-0002-5926-7100"
-- name: Scholar
+- name: Scholar  # Google Scholar
   icon: "fas fa-graduation-cap"
   url: "https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao"
 # - name: dblp
