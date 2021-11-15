@@ -25,6 +25,9 @@ Greeting! This is an introduction post. This post tests the followings:
 - School of Computer Science and Technology
 - Overall GPA 3.65 (Grade 86.87)
 - Ranking 2/37 (10/114 as a master student)
+<!--
+- Overall GPA 3.65 (Grade 86.87), Ranking 2/37 (10/114 as a master student)
+-->
 
 <!--
 **Texas A&M University**, College Station, TX, United States

@@ -23,7 +23,7 @@ Homepage: Academic or Coder theme
 ```shell
 $ hugo new site blog
 $ hugo # generate `public` folder
-$ hugo server  # http://localhost:1313
+$ hugo server  # http://localhost:1313 (bind address 127.0.0.1)
 ```
 
 **publish**
