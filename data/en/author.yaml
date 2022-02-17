@@ -8,7 +8,8 @@ image: "images/eustomaqua.jpg"
 contactInfo:
   # email: "janedoe@example.com"
   # phone: "+0123456789"
-  email: "yjbian92@gmail.com" 
+  email: "yjbian92@gmail.com"
+  # email: "yjbian92@gmail.com, bianyj1992@126.com"
   # alternative: "bianyj1992@126.com"
   location: Shanghai, P.R. China
   # stackoverflow: "https://stackoverflow.com/users/16849449/aqua-eustoma"
