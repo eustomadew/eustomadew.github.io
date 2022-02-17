@@ -35,7 +35,7 @@ $ git init
 $ git add .
 $ git commit -m "first personal homepage"
 $ git remote add origin git@github.com:eustomadew/eustomadew.github.io
-$ $ git push origin master
+$ git push origin master
 ```
 
 **backup** <!--save-->
@@ -45,5 +45,5 @@ $ git status
 $ git add .
 $ git commit -m "Update on 19 Aug 2021, Thu 23:57 PM"  # format
 $ # git push
-$ git push --set-upstream origin master
+$ git push --set-upstream origin website-hugo
 ```
