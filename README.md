@@ -47,3 +47,13 @@ $ git commit -m "Update on 19 Aug 2021, Thu 23:57 PM"  # format
 $ # git push
 $ git push --set-upstream origin website-hugo
 ```
+
+**install**
+```shell
+$ snap install hugo
+$ # themes
+$ mkdir themes
+$ git submodule add https://github.com/hugo-toha/toha.git themes/toha
+$ git submodule add https://github.com/vimux/mainroad.git themes/mainroad
+$ git submodule add https://github.com/vaga/hugo-theme-m10c.git themes/m10c
+```

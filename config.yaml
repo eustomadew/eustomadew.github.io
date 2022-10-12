@@ -1,8 +1,10 @@
 baseURL: https://eustomadew.github.io
 
 languageCode: en-us
-title: "Aqua Eustoma"
-theme: "toha"
+# title: "Aqua Eustoma"
+# theme: "toha"
+title: "Yijun Bian"
+theme: "mainroad"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
@@ -42,3 +44,34 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
+
+Author:
+  name: Yijun Bian
+  bio: "Ph.D. at USTC"
+  avatar: "assets/images/eustomaqua.jpg"
+Params:
+  opengraph: true
+  readmore: false
+  authorbox: true
+  pager: true
+  # post_meta: ["date", "categories"]
+  logo:
+    subtitle: Open science participant # participator
+  googleFontsLink: "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap"
+  style:
+    vars:
+      # highlightColor: "#3CB371" # "#00FA9A" # "#48D1CC" # "#40E0D0"
+      highlightColor: "#4169E1" # "#e22d30"
+      fontFamilyPrimary: "'Roboto', sans-serif"
+      # fontFamilyPrimary: "''Alkalami', sans-serif"
+      # fontFamilyPrimary: "'EB Garamond', sans-serif" # serif
+      # fontFamilyPrimary: "'Libre Baskerville', monospace" # display
+#  sidebar:
+#    home: "right"   # Configure layout for home page
+#    list: "right"   # Configure layout for list pages
+#    single: "right" # Configure layout for single pages
+#    # Enable widgets in given order
+#    widgets: ["search", "recent", "categories", "taglist"]
+#  widgets:
+#    recent_num: 5 # Set the number of articles in the "Recent articles" widget
+#    tags_counter: false # Enable counter for each tag in "Tags" widget
