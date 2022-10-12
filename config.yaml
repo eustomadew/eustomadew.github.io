@@ -56,6 +56,7 @@ Params:
   pager: true
   # post_meta: ["date", "categories"]
   logo:
+    # image: "eustomaqua.jpg"
     subtitle: Open science participant # participator
   googleFontsLink: "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap"
   style:
@@ -66,6 +67,41 @@ Params:
       # fontFamilyPrimary: "''Alkalami', sans-serif"
       # fontFamilyPrimary: "'EB Garamond', sans-serif" # serif
       # fontFamilyPrimary: "'Libre Baskerville', monospace" # display
+  thumbnail:
+    src: "eustomaqua.jpg"
+    visibility: ["list", "post"]
+
+#  sidebar:
+#    home: "right"
+#    list: "right"
+#    single: "right"
+#    sidebar: "left"
+#    widgets:
+#      - "search"
+#      # - "recent"
+#      # - "categories"
+#      # - "taglist"
+#      - "social"
+#      # - "languages"
+#  widgets:
+#    recent_num: 5
+#    categories_counter: false
+#    tags_counter: false
+#    social:
+#      email: "yjbian@mail.ustc.edu.cn"
+#      linkedin: "yijunbian"
+#      github: "eustomaqua"
+#      # custom:
+#      #   title: "YouTube"
+#      #   url: "https://youtube.com/user/username"
+#      #   icon: "youtube.svg"
+#      # gitlab: "username"
+#      # facebook: "username"
+#      # twitter: "username"
+#      # instagram: "username"
+#      # telegram: "username"
+#      # bitbucket: "username"
+
 #  sidebar:
 #    home: "right"   # Configure layout for home page
 #    list: "right"   # Configure layout for list pages
