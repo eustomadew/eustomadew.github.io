@@ -56,4 +56,15 @@ $ mkdir themes
 $ git submodule add https://github.com/hugo-toha/toha.git themes/toha
 $ git submodule add https://github.com/vimux/mainroad.git themes/mainroad
 $ git submodule add https://github.com/vaga/hugo-theme-m10c.git themes/m10c
+
+$ # reload
+$ git clone https://github.com/vimux/mainroad.git themes/mainroad
+$ sudo rm -r public
+$ hugo # hugo server
+$ cd public && git init
+$ git remote add origin git@github.com:eustomadew/eustomadew.github.io
+$ git pull --rebase origin master
+$ cd .. && hugo && cd public
+$ git add . && git commit -m "updated at time on date"
+$ git push -f origin master
 ```
