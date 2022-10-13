@@ -3,7 +3,7 @@ baseURL: https://eustomadew.github.io
 languageCode: en-us
 # title: "Aqua Eustoma"
 # theme: "toha"
-title: "Yijun Bian"
+title: "eustomaqua" # "Yj Bian" # "Yijun Bian"
 theme: "mainroad"
 
 # Manage languages
@@ -46,7 +46,7 @@ params:
     enable: false
 
 Author:
-  name: Yijun Bian
+  name: eustomaqua # Yijun Bian
   bio: "Ph.D. at USTC"
   avatar: "assets/images/eustomaqua.jpg"
 Params:
@@ -54,9 +54,10 @@ Params:
   readmore: false
   authorbox: true
   pager: true
-  # post_meta: ["date", "categories"]
+  post_meta: ["date", "categories"]
   logo:
     # image: "eustomaqua.jpg"
+    title: "Yijun Bian"
     subtitle: Open science participant # participator
   googleFontsLink: "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap"
   style:
@@ -69,7 +70,10 @@ Params:
       # fontFamilyPrimary: "'Libre Baskerville', monospace" # display
   thumbnail:
     src: "eustomaqua.jpg"
+    title: "Yj Bian"
     visibility: ["list", "post"]
+  # sidebar: "left" # Enable sidebar (on the left side) per page
+  menu: ["main", "side", "footer"]
 
 #  sidebar:
 #    home: "right"

@@ -1,7 +1,7 @@
 ---
 title: Publications
 description: Research articles.
-date: 2022-10-08T07:00:00.000Z
+date: 
 authorbox: false
 sidebar: false
 pager: false

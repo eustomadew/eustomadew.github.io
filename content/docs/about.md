@@ -9,7 +9,7 @@ menu: main
 ---
 
 
-[Email](yjbian92@gmail.com), 
+[Email](mailto:yjbian@mail.ustc.edu.cn), 
 [GitHub](https://github.com/eustomaqua), 
 [LinkedIn](https://www.linkedin.com/in/yijunbian/), 
 [ORCID](https://orcid.org/0000-0002-5926-7100), 
@@ -28,6 +28,8 @@ Location: Shanghai, P.R. China
 
 
 <!--
+[Email](mailto:yjbian92@gmail.com), 
+
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 <i class="ai ai-google-scholar-square ai-3x"></i>
 
