@@ -50,12 +50,24 @@ A Sharma#, **Y Bian**#\*, P Munz, and A Narayan, “Adversarial patch attacks an
 
 ### Released code of research projects
 
-**SAEP** (URL: https://github.com/eustomaqua/SAEP), *Aug 2022 to Sept 2022*  
+**SAEP** (URL: [https://github.com/eustomaqua/SAEP](https://github.com/eustomaqua/SAEP)), *Aug 2022 to Sept 2022*  
 Official released code for the paper entitled “Subarchitecture Ensemble Pruning in Neural Architecture Search”.
 
-**EPFD** (URL: https://github.com/eustomaqua/EPFD), *Apr 2020 to Sept 2021*  
+**EPFD** (URL: [https://github.com/eustomaqua/EPFD](https://github.com/eustomaqua/EPFD)), *Apr 2020 to Sept 2021*  
 Official released code for the paper entitled “Ensemble Pruning Based on Objection Maximisation With a General Distributed Framework”.
 
-**PyEnsemble** (URL: https://github.com/eustomaqua/PyEnsemble), *Jul 2019 to Apr 2020*  
+**PyEnsemble** (URL: [https://github.com/eustomaqua/PyEnsemble](https://github.com/eustomaqua/PyEnsemble)), *Jul 2019 to Apr 2020*  
 This is an open-source library for ensemble learning methods, diversity measures, and ensemble pruning methods.
+
+
+<!--
+**SAEP** (URL: https://github.com/eustomaqua/SAEP ), *Aug 2022 to Sept 2022*  
+Official released code for the paper entitled “Subarchitecture Ensemble Pruning in Neural Architecture Search”.
+
+**EPFD** (URL: https://github.com/eustomaqua/EPFD ), *Apr 2020 to Sept 2021*  
+Official released code for the paper entitled “Ensemble Pruning Based on Objection Maximisation With a General Distributed Framework”.
+
+**PyEnsemble** (URL: https://github.com/eustomaqua/PyEnsemble ), *Jul 2019 to Apr 2020*  
+This is an open-source library for ensemble learning methods, diversity measures, and ensemble pruning methods.
+-->
 
