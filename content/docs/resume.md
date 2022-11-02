@@ -38,9 +38,12 @@ menu:
 
 **Experience/internships in the industry**
 - Algorithm engineer, SIMIT, *Dec 2020 to present*
+
+<!--
 - Intern, TENCENT, *Dec 2019 to Mar 2020*
 - NLP algorithm engineer intern, RICH AI, *Aug to Oct 2019*
 - Image algorithm engineer intern, RICH AI, *Aug 2018*
+-->
 
 
 ### Scientific Services
