@@ -14,6 +14,20 @@ menu:
 
 <!--more-->
 
+*\* Corresponding author*  
+*\# Equal contribution*  
+
+
+### Preprints
+
+**Y Bian**\* and K Zhang, “Increasing Fairness in Compromise on Accuracy via Weighted Vote with Learning Guarantees,” *Under Review*, *arXiv preprint arXiv:2301.10813*, 2023. 
+(Available online: [arXiv](https://arxiv.org/abs/2301.10813))
+
+A Sharma#, **Y Bian**#\*, P Munz, and A Narayan, “Adversarial patch attacks and defences in vision-based tasks: A survey,” *Under Review*, *arXiv preprint arXiv:2206.08304*, 2022. 
+(Available online: [arXiv](https://arxiv.org/abs/2206.08304), 
+[TechRxiv](https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902))
+
+
 ### Peer-reviewed articles
 
 **Y Bian**, Q Song, M Du, J Yao, H Chen* and X Hu, “Subarchitecture ensemble pruning in neural architecture search,” *IEEE Transactions on Neural Networks and Learning Systems*, early access, Jun. 18, 2021. 
@@ -35,17 +49,6 @@ menu:
 [paper](https://ieeexplore.ieee.org/document/8891828), 
 [code](https://github.com/eustomaqua/EPFD), 
 [doi](https://doi.org/10.1109/TNNLS.2019.2945116))
-
-
-### Preprint(s)
-
-A Sharma#, **Y Bian**#\*, P Munz, and A Narayan, “Adversarial patch attacks and defences in vision-based tasks: A survey,” *Under Review*, *arXiv preprint arXiv:2206.08304*, 2022. 
-(Available online: [arXiv](https://arxiv.org/abs/2206.08304), 
-[TechRxiv](https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902))
-
-
-*\* Corresponding author*  
-*\# Equal contribution*  
 
 
 ### Released code of research projects
