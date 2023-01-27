@@ -30,25 +30,31 @@ A Sharma#, **Y Bian**#\*, P Munz, and A Narayan, “Adversarial patch attacks an
 
 ### Peer-reviewed articles
 
-**Y Bian**, Q Song, M Du, J Yao, H Chen* and X Hu, “Subarchitecture ensemble pruning in neural architecture search,” *IEEE Transactions on Neural Networks and Learning Systems*, early access, Jun. 18, 2021. 
+**Y Bian**, Q Song, M Du, J Yao, H Chen* and X Hu, “Subarchitecture ensemble pruning in neural architecture search,” *IEEE Transactions on Neural Networks and Learning Systems*,  vol. 33, no. 12, pp. 7928-7936, Dec 2022, doi: 10.1109/TNNLS.2021.3085299. 
 (Available online: 
 [arXiv](https://arxiv.org/abs/1910.00370), 
 [paper](https://ieeexplore.ieee.org/document/9460115), 
 [code](https://github.com/eustomaqua/SAEP), 
 [doi](https://doi.org/10.1109/TNNLS.2021.3085299))
 
-**Y Bian** and H Chen\*, “When does diversity help generalization in classification ensembles?” *IEEE Transactions on Cybernetics*, vol. 52, no. 9, pp. 9059–9075, Sept 2022. 
+**Y Bian** and H Chen\*, “When does diversity help generalization in classification ensembles?” *IEEE Transactions on Cybernetics*, vol. 52, no. 9, pp. 9059–9075, Sept 2022, doi: 10.1109/TCYB.2021.3053165. 
 (Available online: 
 [arXiv](https://arxiv.org/abs/1910.13631), 
 [paper](https://ieeexplore.ieee.org/document/9364928), 
 [doi](https://doi.org/10.1109/TCYB.2021.3053165))
 
-**Y Bian**, Y Wang, Y Yao and H Chen\*, “Ensemble pruning based on objection maximization with a general distributed framework,” *IEEE Transactions on Neural Networks and Learning Systems*, vol. 31, no. 9, pp. 3766–3774, Sept 2020. 
+**Y Bian**, Y Wang, Y Yao and H Chen\*, “Ensemble pruning based on objection maximization with a general distributed framework,” *IEEE Transactions on Neural Networks and Learning Systems*, vol. 31, no. 9, pp. 3766–3774, Sept 2020, doi: 10.1109/TNNLS.2019.2945116. 
 (Available online: 
 [arXiv](https://arxiv.org/abs/1806.04899), 
 [paper](https://ieeexplore.ieee.org/document/8891828), 
 [code](https://github.com/eustomaqua/EPFD), 
 [doi](https://doi.org/10.1109/TNNLS.2019.2945116))
+
+<!--
+early access, Jun. 18, 2021. 
+early access, Feb. 26, 2021. 
+early access, Nov. 05, 2019. 
+-->
 
 
 ### Released code of research projects
