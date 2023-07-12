@@ -5,7 +5,7 @@ date:
 authorbox: false
 sidebar: false
 pager: false
-weight: 3
+weight: 4
 menu:
   main:
     name: CV
@@ -13,6 +13,33 @@ menu:
 
 
 <!--more-->
+
+
+### Professional Experiences
+
+- Research fellow @NUS, *Mar 2023 to present*
+- Algorithm engineer @SIMIT, *Dec 2020 to Mar 2023*
+- Graduate research assistant @USTC, *Sept 2014 to Nov 2020*
+- Visiting research scholar @TAMU, *Nov 2018 to Apr 2019*
+- Teaching assistant @USTC, *Mar to Jul 2016*
+
+<!--
+**Research experience in academia**
+- Graduate research assistant, USTC, *Sept 2014 to Nov 2020*
+- Visiting research scholar, TAMU, *Nov 2018 to Apr 2019*
+
+**Teaching and supervision**
+- Teaching assistant, USTC, *Mar to Jul 2016*
+
+**Experience/internships in the industry**
+- Algorithm engineer, SIMIT, *Dec 2020 to present*
+-->
+
+<!--
+- Intern, TENCENT, *Dec 2019 to Mar 2020*
+- NLP algorithm engineer intern, RICH AI, *Aug to Oct 2019*
+- Image algorithm engineer intern, RICH AI, *Aug 2018*
+-->
 
 
 ### Education
@@ -27,28 +54,12 @@ menu:
 - B.Sc. in Information and Computing Science (aka. Computational Mathematics)
 
 
-### Professional Experience
-
-**Research experience in academia**
-- Graduate research assistant, USTC, *Sept 2014 to Nov 2020*
-- Visiting research scholar, TAMU, *Nov 2018 to Apr 2019*
-
-**Teaching and supervision**
-- Teaching assistant, USTC, *Mar to Jul 2016*
-
-**Experience/internships in the industry**
-- Algorithm engineer, SIMIT, *Dec 2020 to present*
-
-<!--
-- Intern, TENCENT, *Dec 2019 to Mar 2020*
-- NLP algorithm engineer intern, RICH AI, *Aug to Oct 2019*
-- Image algorithm engineer intern, RICH AI, *Aug 2018*
--->
-
-
 ### Scientific Services
 
 **Journal reviewer**
+- Scientific Reports, *since Jun 2023*
+- IEEE Transactions on Pattern Analysis and Machine Intelligence, *since May 2023*
+- Journal of Supercomputing, *since Mar 2023*
 - IEEE Transactions on Emerging Topics in Computational Intelligence, *since Sept 2021*
 - Neural Networks, *since Nov 2020*
 - IEEE Transactions on Neural Networks and Learning Systems, *since Aug 2016*
@@ -61,6 +72,7 @@ menu:
 
 ### Selected Honours & Awards
 
+- Seal of Excellence under the HORIZON Europe MSCA call 2022, European Commission, *Apr 2023*
 - GDC Technology Scholarship, USTC, *Oct 2019*
 - International Exchange Funding for Excellent Students, USTC, *Apr 2018*
 - First-class Academic Scholarship, USTC, *Sept 2015*
@@ -72,7 +84,7 @@ menu:
 
 <!--
 - Second-class Academic Scholarship, USTC, *Sept 2014, Sept 2016 to Sept 2018*
-
+- Seal of Excellence under the HORIZON MSCA Postdoctoral Fellowships call 2022, European Commission, *Apr 2023*
 - Excellence Award of the Undergraduate Innovation Forum and Finding Presentation, NWAFU, *Jan 2013*
 -->
 
