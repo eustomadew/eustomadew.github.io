@@ -12,10 +12,35 @@ menu: main
 [Email](mailto:yjbian@mail.ustc.edu.cn), 
 [GitHub](https://github.com/eustomaqua), 
 [LinkedIn](https://www.linkedin.com/in/yijunbian/), 
+[ORCID](https://orcid.org/0000-0002-5926-7100), 
+[Google scholar](https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao)
+
+I am currently a postdoctoral research fellow at the College of Design \& Engineering, National University of Singapore (NUS). 
+I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [Huanhuan Chen](http://staff.ustc.edu.cn/~hchen/). 
+I was a visiting research student once with the DATA Lab, Department of Computer Science & Engineering, Texas A&M University. 
+Before that, I received my Bachelor’s degree from the College of Science, Northwest A&F University (NWAFU).
+
+
+**Contact me**  
+Emails: yjbian92@{gmail, hotmail}.com  
+Location: Singapore
+
+
+<!--
+[Email](mailto:yjbian@mail.ustc.edu.cn), 
+[GitHub](https://github.com/eustomaqua), 
+[LinkedIn](https://www.linkedin.com/in/yijunbian/), 
 [Google scholar](https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao), 
 [ORCID](https://orcid.org/0000-0002-5926-7100), 
 [dblp](https://dblp.org/pid/222/1897.html), 
 [Scopus](http://www.scopus.com/authid/detail.url?authorId=57218773477) 
+
+I am currently a postdoctoral research fellow at the College of Design \& Engineering, National University of Singapore (NUS). 
+I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC) in December 2020; I was very fortunate to be supervised by Prof. [Huanhuan Chen](http://staff.ustc.edu.cn/~hchen/). 
+I was a visiting research student with the DATA Lab, Department of Computer Science & Engineering, Texas A&M University, from November 2018 to April 2019. 
+Before that, I received my Bachelor’s degree from the College of Science, Northwest A&F University (NWAFU) in July 2014.
+-->
+
 
 <!--
 date: 2022-10-08T07:00:00.000Z
@@ -34,17 +59,6 @@ date: 2022-10-08T07:00:00.000Z
 [ScholarBank NUS](https://scholarbank.nus.edu.sg/cris/rp/rp132813), 
 [Elements NUS](https://meprd.nus.edu.sg/homepage.html) 
 -->
-
-
-I am currently a postdoctoral research fellow at the College of Design \& Engineering, National University of Singapore (NUS). 
-I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC) in December 2020; I was very fortunate to be supervised by Prof. [Huanhuan Chen](http://staff.ustc.edu.cn/~hchen/). 
-I was a visiting research student with the DATA Lab, Department of Computer Science & Engineering, Texas A&M University, from November 2018 to April 2019. 
-Before that, I received my Bachelor’s degree from the College of Science, Northwest A&F University (NWAFU) in July 2014.
-
-
-**Contact me**  
-Emails: yjbian92@{gmail, hotmail}.com  
-Location: Singapore
 
 
 <!--

@@ -6,9 +6,9 @@ authorbox: false
 sidebar: false
 pager: false
 weight: 1
-menu:
-  main:
-    name: News
+# menu:
+#   main:
+#     name: News
 ---
 
 

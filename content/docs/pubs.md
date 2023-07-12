@@ -61,7 +61,7 @@ https://dl-acm-org.libproxy1.nus.edu.sg/profile/99660781607
 
 ### Peer-reviewed conference paper
 
-Abhijith Sharma, **Yijun Bian**, Vatsal Nanda, Phil Munz, Apurva Narayan, "Vulnerability of CNNs against multi-patch attacks," *Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23)*, pp. 23--32, Apr 2023, doi: 10.1145/3579988.3585054. 
+Abhijith Sharma, **Yijun Bian**, Vatsal Nanda, Phil Munz, and Apurva Narayan, "Vulnerability of CNNs against multi-patch attacks," *Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23)*, pp. 23--32, Apr 2023, doi: 10.1145/3579988.3585054. 
 (Available online: 
 [paper](https://dl.acm.org/doi/abs/10.1145/3579988.3585054), 
 [doi](https://doi.org/10.1145/3579988.3585054))

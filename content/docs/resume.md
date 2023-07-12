@@ -15,7 +15,7 @@ menu:
 <!--more-->
 
 
-### Professional Experiences
+### Employment
 
 - Research fellow @NUS, *Mar 2023 to present*
 - Algorithm engineer @SIMIT, *Dec 2020 to Mar 2023*
@@ -24,6 +24,8 @@ menu:
 - Teaching assistant @USTC, *Mar to Jul 2016*
 
 <!--
+### Professional Experiences
+
 **Research experience in academia**
 - Graduate research assistant, USTC, *Sept 2014 to Nov 2020*
 - Visiting research scholar, TAMU, *Nov 2018 to Apr 2019*
