@@ -32,6 +32,11 @@ $ hugo server  # http://localhost:1313 (bind address 127.0.0.1)
 $ hugo
 $ cd public
 $ git init
+$ git remote add origin git@github.com:eustomadew/eustomadew.github.io
+$ git pull
+$ git push --set-upstream origin master
+
+$ git init
 $ git add .
 $ git commit -m "first personal homepage"
 $ git remote add origin git@github.com:eustomadew/eustomadew.github.io
