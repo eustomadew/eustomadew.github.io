@@ -16,6 +16,7 @@ menu: main
 [Google scholar](https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao)
 
 I am currently a postdoctoral research fellow at the College of Design \& Engineering, National University of Singapore (NUS). 
+Prior to joining NUS, 
 I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [Huanhuan Chen](http://staff.ustc.edu.cn/~hchen/). 
 I was a visiting research student once with the DATA Lab, Department of Computer Science & Engineering, Texas A&M University. 
 Before that, I received my Bachelor’s degree from the College of Science, Northwest A&F University (NWAFU).

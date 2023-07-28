@@ -34,6 +34,8 @@ $ cd public
 $ git init
 $ git remote add origin git@github.com:eustomadew/eustomadew.github.io
 $ git pull
+$ git config --global user.name "eustomaqua"
+$ git config --global user.email yjbian92@gmail.com
 $ git push --set-upstream origin master
 
 $ git init
@@ -64,6 +66,12 @@ $ git submodule add https://github.com/vaga/hugo-theme-m10c.git themes/m10c
 
 $ # reload
 $ git clone https://github.com/vimux/mainroad.git themes/mainroad
+$ git clone https://github.com/vaga/hugo-theme-m10c.git themes/m10c
+$ git clone https://github.com/4s3ti/terminalcv.git themes/terminalcv
+$ git clone https://github.com/qub1750ul/hugo-simpleIntro.git themes/simpleIntro
+$ git clone https://github.com/bep/docuapi.git themes/docuapi
+$ git clone https://github.com/m-e-leypold/brutalist-minimalist-gohugo-theme.git themes/minimalist
+
 $ sudo rm -r public
 $ hugo # hugo server
 $ cd public && git init
