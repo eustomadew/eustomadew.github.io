@@ -5,7 +5,7 @@ languageCode: en-us
 # theme: "toha"
 title: "eustomaqua" # "Yj Bian" # "Yijun Bian"
 theme: "mainroad"
-# theme: "docuapi" # "simpleIntro", "terminalcv", "m10c"
+# theme: "docuapi"  # "simpleIntro", "terminalcv", "m10c"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
