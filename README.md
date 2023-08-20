@@ -20,10 +20,17 @@ Homepage: Academic or Coder theme
 
 **backup** <!--save-->
 ```shell
-
+$ git push --set-upstream origin jemdoc
+$ # python2 jemdoc.py index.jemdoc
+$ python jemdoc3.py index.jemdoc
+$ python jemdoc2.py index.jemdoc
 ```
 
 **install**
 ```shell
-
+$ conda env list
+$ conda create -n jemdoc python=2.7
+$ source activate jemdoc
+$ source deactivate
+$ conda remove -n jemdoc --all
 ```

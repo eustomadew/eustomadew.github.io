@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+= Publications
+
+See also [https://scholar.google.com/citations?user=zs_h9Y4AAAAJ&hl=en&oi=ao Google Scholar] and [https://www.semanticscholar.org/author/2110310332 Semantic Scholar].
+
+== Preprints
+. [publications/chordal-gcn.pdf Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks] \n
+*X. Jiang*, K. Cheng, S. Jiang, and Y. Sun \n
+Preprint, 2019.
+
+== Papers
+. [https://link.springer.com/content/pdf/10.1007/s10957-022-02125-9.pdf Bregman three-operator splitting methods] \n
+*X. Jiang*, and L. Vandenberghe \n
+/Journal of Optimization Theory and Applications/, 2022. \[[https://link.springer.com/article/10.1007/s10957-022-02125-9 doi]\] \[[publications/breg-3op.pdf preprint]\] \[[https://arxiv.org/abs/2203.00252 arXiv]\]
+. [https://link.springer.com/content/pdf/10.1007/s10589-021-00339-7.pdf Bregman primal-dual first-order method and application to sparse semidefinite programming] \n
+*X. Jiang*, and L. Vandenberghe \n
+/Computational Optimization and Applications/, 2022. \[[https://link.springer.com/article/10.1007/s10589-021-00339-7 doi]\] \[[publications/sdp-bregman.pdf preprint]\]
+. [publications/stack.pdf Blindfolded attackers still threatening: Strict black-box adversarial attacks on graphs] \n
+J. Xu, Y. Sun, *X. Jiang*, Y. Wang, C. Wang, J. Lu, and Y. Yang \n
+In /Proceedings of the 36th Conference on Artificial Intelligence (AAAI)/, 2022. \[[https://github.com/galina0217/stack code]\]
+. [publications/robustgraph.pdf Unsupervised adversarially robust representation learning on graphs] \n
+J. Xu, Y. Yang, J. Chen, *X. Jiang*, C. Wang, J. Lu, and Y. Yang \n
+In /Proceedings of the 36th Conference on Artificial Intelligence (AAAI)/, 2022. \[[https://github.com/galina0217/robustgraph code]\]
+. [publications/open-door.pdf Consolidating kinematic models to promote coordinated mobile manipulations] \n
+Z. Jiao\*, Z. Zhang\*, *X. Jiang*, D. Han, S.-C. Zhu, Y. Zhu, and H. Liu \n
+In /IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2021. \[[https://arxiv.org/abs/2108.01264 arXiv]\]
+
+== Thesis
+
+. [publications/phd-thesis.pdf Primal–dual proximal optimization algorithms with Bregman divergences] (PhD dissertation) \n
+*X. Jiang*, Department of Electrical and Computer Engineering, UCLA, 2022.
+
+. [https://escholarship.org/uc/item/8p2397x1 Minimum rank positive semidefinite matrix completion with chordal sparsity pattern] (Master thesis) \n
+*X. Jiang*, Department of Electrical and Computer Engineering, UCLA, 2017.
+
+== Technical reports
+
+. [publications/hku-fyp-report.pdf Power optimization in hybrid localization mechanism for logistics applications] \n
+*X. Jiang*, and V. O. K. Li \n
+Technical report for HKU EEE Senior Design Project, 2015. \n
+Winner of /URFP Research Internship Award/. \[[publications/hku-fyp-slides.pdf slides]\] \[[publications/hku-fyp-poster.pdf poster]\]

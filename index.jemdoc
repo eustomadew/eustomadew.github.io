@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Xin Jiang
+
+~~~
+{}{img_left}{misc/bio.jpg}{alt text}{238}{300px}{}
+{{<font size=+1><b>}}Xin Jiang{{</b></font>}} \n
+Postdoctoral Researcher \n
+[https://engineering.lehigh.edu// P.C. Rossin College of Engineering and Applied Science] \n
+[https://www.lehigh.edu/ Lehigh University]
+
+Email: xjiang \[AT\] lehigh \[DOT\] edu
+
+[https://scholar.google.com/citations?user=zs_h9Y4AAAAJ&hl=en&oi=ao Google Scholar] \M [https://www.semanticscholar.org/author/2110310332 Semantic Scholar] \M [https://orcid.org/my-orcid?orcid=0000-0003-1231-8529 ORCID]
+
+[misc/cv.pdf \[Curriculum vitae\]]
+~~~
+
+#~~~
+#I am currently on the 2022-2023 academic job market and looking for faculty or postdoc position openings in ECE\/OR\/Applied Math\/Data Science and related fields. Feel free to contact me for any opportunities.
+#~~~
+
+== Brief Biography
+
+I am now a postdoctoral researcher hosted by [https://wordpress.lehigh.edu/lehigh-mods/ Program in the Foundations and Applications of Mathematical Optimization and Data Science (MODS)] at Lehigh University. In 2022, I obtained my Ph.D. degree in Electrical and Computer Engineering at UCLA, under the supervision of [http://www.seas.ucla.edu/~vandenbe/index.html Prof. Lieven Vandenberghe]. Prior to that, I received Bachelor of Engineering degree in Electrical and Electronics Engineering from the University of Hong Kong.
+
+== Research Interests
+
+My research interests broadly include theory and algorithms for optimization, especially large-scale semidefinite programming. I design, analyze, and implement efficient and scalable algorithms for various applications including engineering, machine learning and data science.
