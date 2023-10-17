@@ -27,6 +27,17 @@ $ hugo server  # http://localhost:1313 (bind address 127.0.0.1)
 #              # Press Ctrl+C to stop
 ```
 
+**restore**
+```shell
+$ mkdir public
+$ cd public
+$ git init -b master
+$ # git config --global init.defaultBranch master
+$ git remote add origin git@github.com:eustomadew/eustomadew.github.io
+$ git pull origin master
+$ git branch --set-upstream-to=origin/master master
+```
+
 **publish**
 ```shell
 $ hugo
