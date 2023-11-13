@@ -1,0 +1,114 @@
+# jemdoc: addcss{person.css}, menu{MENU}{index.html}
+==Yijun Bian 
+
+# # jemdoc: menu{MENU}{index.html}
+# # jemdoc: addcss{person.css}, showsource
+
+# ~~~
+# {}{img_left}{1559651012886.jpeg}{alt text}{115px}{160px}{https://eustomadew.github.io/}
+Research Fellow,\n College of Design and Engineering, \n National University of Singapore\n
+
+=== Contact me
+# Emails: yjbian92@{gmail, hotmail}.com\n
+Email: yjbian@mail.ustc.edu.cn \n
+Location: Singapore \n
+# ~~~
+
+== Biography
+# [mailto:yjbian@nus.edu.sg Email], [https://github.com/eustomaqua GitHub], [https://www.linkedin.com/in/yijunbian/ LinkedIn], [https://orcid.org/0000-0002-5926-7100 ORCID], [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google scholar]
+
+I am currently a postdoctoral research fellow at the College of Design & Engineering, National University of Singapore (NUS). Prior to joining NUS, I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [http://staff.ustc.edu.cn/~hchen/ Huanhuan Chen]. I was a visiting research student once with the DATA Lab, Department of Computer Science & Engineering, Texas A&M University. Before that, I received my Bachelor’s degree from the College of Science, Northwest A&F University (NWAFU). 
+
+
+== Education
+
+- Ph.D. in Computer Science and Technology, University of Science and Technology of China, 2020
+- B.Sc. in Computational Mathematics, Northwest A&F University, 2014
+
+# === Experiences
+# - Research fellow @NUS, Mar 2023 to present
+# - Algorithm engineer @SIMIT, Dec 2020 to Mar 2023
+# - Graduate research assistant @USTC, Sept 2014 to Nov 2020
+# - Visiting research scholar @TAMU, Nov 2018 to Apr 2019
+# - Teaching assistant @USTC, Mar to Jul 2016
+
+
+== Publications
+# More information can be found on my [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google Scholar] profile \n
+[https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Full list of publications].
+\n
+Here * denotes /corresponding author/, and \# denotes /equal contributions/ 
+
+=== Preprints
+
+. *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees\", arXiv preprint arXiv:2301.10813, 2023. Under Review. 
+\n [https://arxiv.org/abs/2301.10813 \[arXiv\]]
+. Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey\", arXiv preprint arXiv:2206.08304, 2022. Under Review. 
+\n [https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
+
+=== Journal articles
+
+. *Yijun Bian*, Qingquan Song, Mengnan Du, Jun Yao, Huanhuan Chen*, and Xia Hu, \"Subarchitecture ensemble pruning in neural architecture search\", IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 12, pp. 7928-7936, Dec 2022, doi: 10.1109/TNNLS.2021.3085299. 
+\n [https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]]
+. *Yijun Bian* and Huanhuan Chen*, \"When does diversity help generalization in classification ensembles?\" IEEE Transactions on Cybernetics, vol. 52, no. 9, pp. 9059–9075, Sept 2022, doi: 10.1109/TCYB.2021.3053165. 
+\n [https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]]
+. *Yijun Bian*, Yijun Wang, Yaqiang Yao, and Huanhuan Chen*, \"Ensemble pruning based on objection maximization with a general distributed framework\", IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3766–3774, Sept 2020, doi: 10.1109/TNNLS.2019.2945116. 
+\n [https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]]
+
+=== Conference paper
+
+. Abhijith Sharma, *Yijun Bian*, Vatsal Nanda, Phil Munz, and Apurva Narayan, \"Vulnerability of CNNs against multi-patch attacks\", Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23), pp. 23–32, Apr 2023, doi: 10.1145/3579988.3585054. 
+\n [https://dl.acm.org/doi/abs/10.1145/3579988.3585054 \[paper\]][https://doi.org/10.1145/3579988.3585054 \[doi\]]
+
+
+# == Teaching
+== Experiences
+
+=== Teaching & research
+
+- Graduate research assistant @USTC, Sept 2014 to Nov 2020
+- Visiting research scholar @TAMU, Nov 2018 to Apr 2019
+- Teaching assistant @USTC, Mar 2016 to Jul 2016
+
+=== Presentation
+
+- \"Increasing Fairness via Combination with Learning Guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All Mentorship Workshop], Oct 2023. [pre_letall.pdf \[slides\]]
+
+== Professional activities
+
+=== Journal reviewer
+. Scientific Reports, since Jun 2023
+. IEEE Transactions on Pattern Analysis and Machine Intelligence, since May 2023
+. Journal of Supercomputing, since Mar 2023
+. IEEE Transactions on Emerging Topics in Computational Intelligence, since Sept 2021
+. Neural Networks, since Nov 2020
+. IEEE Transactions on Neural Networks and Learning Systems, since Aug 2016
+
+=== Open-source contributor
+- AdaNet (Google’s open-source project), merged [https://github.com/tensorflow/adanet/pull/133 pull request], Oct 2019
+- OpenNE, merged [https://github.com/thunlp/OpenNE/pull/81 pull request], Aug 2019
+- AutoKeras, merged pull requests [https://github.com/keras-team/autokeras/pull/656 a] and [https://github.com/keras-team/autokeras/pull/666 b] in the blocks branch, Jun 2019
+
+=== Released code of projects
+- [https://github.com/eustomaqua/SAEP SAEP], 
+official released code for \"Subarchitecture ensemble pruning in neural architecture search\".
+- [https://github.com/eustomaqua/EPFD EPFD], 
+official released code for \"Ensemble pruning based on objection maximisation with a general distributed framework\".
+- [https://github.com/eustomaqua/PyEnsemble PyEnsemble], an open-source library for ensemble learning methods, diversity measures, and ensemble pruning methods.
+
+
+== Selected Honours & Awards
+
+- Seal of Excellence under the HORIZON Europe MSCA call 2022, European Commission, Apr 2023
+- GDC Technology Scholarship, USTC, Oct 2019
+- International Exchange Funding for Excellent Students, USTC, Apr 2018
+- First-class Academic Scholarship, USTC, Sept 2015
+- Outstanding Undergraduate Graduation Thesis (Design), NWAFU, Jun 2014
+- President Scholarship, NWAFU, Dec 2013
+- Merit Student, for three consecutive years, NWAFU, Dec 2011 to Dec 2013
+- First Prize Professional Scholarship, four times in a row, NWAFU, Mar 2011, Oct 2011 to Oct 2013
+- Best Debater in the Freshman Cup Debate, NWAFU, Nov 2010
+
+
+# [index.html Back to top]
+# [cv.pdf A brief cv].
