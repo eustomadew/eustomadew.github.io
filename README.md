@@ -26,6 +26,9 @@ $ hugo # generate `public` folder
 $ hugo server  # http://localhost:1313 (bind address 127.0.0.1)
 #              # Press Ctrl+C to stop
 ```
+```
+$ python jemdoc.py index.jemdoc
+```
 
 **restore**
 ```shell

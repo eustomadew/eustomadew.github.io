@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{cv.html}  
+===Curriculum Vitae
+
+
+=== Employment
+
+Research fellow @NUS, / Mar 2023 to present / \n
+Algorithm engineer @SIMIT, / Dec 2020 to Mar 2023 / \n
+Graduate research assistant @USTC, / Sept 2014 to Nov 2020 / \n
+Visiting research scholar @TAMU, / Nov 2018 to Apr 2019 / \n
+Teaching assistant @USTC, / Mar to Jul 2016 / \n
+
+=== Education
+
+*Doctor of Engineering (equivalent Ph.D.)*, 2014.09--2020.11 \n
+- University of Science and Technology of China (USTC)
+- Ph.D. in Computer Science and Technology
+- Dissertation: Research and Applications of Diversity in Ensemble Classification
+
+*Bachelor of Natural Sciences*, 2010.09--2014.07 \n
+- Northwest A&F University (NWAFU)
+- B.Sc. in Information and Computing Science (aka. Computational Mathematics)
+
+=== Scientific Services
+
+==== Journal reviewer
+- Scientific Reports, /since Jun 2023/
+- IEEE Transactions on Pattern Analysis and Machine Intelligence, /since May 2023/
+- Journal of Supercomputing, /since Mar 2023/
+- IEEE Transactions on Emerging Topics in Computational Intelligence, /since Sept 2021/
+- Neural Networks, /since Nov 2020/
+- IEEE Transactions on Neural Networks and Learning Systems, /since Aug 2016/
+
+==== Open-source contributor
+- AdaNet (Google’s open-source project), merged [https://github.com/tensorflow/adanet/pull/133 pull request], Oct 2019
+- OpenNE, merged [https://github.com/thunlp/OpenNE/pull/81 pull request], Aug 2019
+- AutoKeras, merged pull requests [https://github.com/keras-team/autokeras/pull/656 a] and [https://github.com/keras-team/autokeras/pull/666 b] in the blocks branch, Jun 2019
+
+
+=== Selected Honours & Awards
+
+- Seal of Excellence under the HORIZON Europe MSCA call 2022, European Commission, /Apr 2023/
+- GDC Technology Scholarship, USTC, /Oct 2019/
+- International Exchange Funding for Excellent Students, USTC, /Apr 2018/
+- First-class Academic Scholarship, USTC, /Sept 2015/
+- Outstanding Undergraduate Graduation Thesis (Design), NWAFU, /Jun 2014/
+- President Scholarship, NWAFU, /Dec 2013/
+- Merit Student, for three consecutive years, NWAFU, /Dec 2011 to Dec 2013/
+- First Prize Professional Scholarship, four times in a row, NWAFU, /Mar 2011, Oct 2011 to Oct 2013/
+- Best Debater in the Freshman Cup Debate, NWAFU, /Nov 2010/
