@@ -34,31 +34,35 @@ I am currently a postdoctoral research fellow at the College of Design & Enginee
 
 
 == Publications
-# More information can be found on my [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google Scholar] profile \n
-[https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Full list of publications].
-\n
-Here * denotes /corresponding author/, and \# denotes /equal contributions/ 
+# First/corresponding-authored (\*) works listed; see [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google Scholar] for complete list.
+# First/corresponding-authored (\*) and equally-contributed-to (\#) works listed; \n See [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google Scholar] for a complete list.
+First/corresponding-authored (\*) and equally-contributed-to (\#) works listed; [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Full list of publications].
+
+# # More information can be found on my [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google Scholar] profile \n
+# [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Full list of publications].
+# \n
+# Here * denotes /corresponding author/, and \# denotes /equal contributions/ 
 
 === Preprints
 
 . *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees\", arXiv preprint arXiv:2301.10813, 2023. Under Review. 
-\n [https://arxiv.org/abs/2301.10813 \[arXiv\]]
+[https://arxiv.org/abs/2301.10813 \[arXiv\]]
 . Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey\", arXiv preprint arXiv:2206.08304, 2022. Under Review. 
-\n [https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
+[https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
 
 === Journal articles
 
-. *Yijun Bian*, Qingquan Song, Mengnan Du, Jun Yao, Huanhuan Chen*, and Xia Hu, \"Subarchitecture ensemble pruning in neural architecture search\", IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 12, pp. 7928-7936, Dec 2022, doi: 10.1109/TNNLS.2021.3085299. 
-\n [https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]]
-. *Yijun Bian* and Huanhuan Chen*, \"When does diversity help generalization in classification ensembles?\" IEEE Transactions on Cybernetics, vol. 52, no. 9, pp. 9059–9075, Sept 2022, doi: 10.1109/TCYB.2021.3053165. 
-\n [https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]]
-. *Yijun Bian*, Yijun Wang, Yaqiang Yao, and Huanhuan Chen*, \"Ensemble pruning based on objection maximization with a general distributed framework\", IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3766–3774, Sept 2020, doi: 10.1109/TNNLS.2019.2945116. 
-\n [https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]]
+. *Yijun Bian*, Qingquan Song, Mengnan Du, Jun Yao, Huanhuan Chen*, and Xia Hu, \"Subarchitecture ensemble pruning in neural architecture search\", IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 12, pp. 7928-7936, Dec 2022. 
+[https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]]
+. *Yijun Bian* and Huanhuan Chen*, \"When does diversity help generalization in classification ensembles?\" IEEE Transactions on Cybernetics, vol. 52, no. 9, pp. 9059–9075, Sept 2022. 
+[https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]]
+. *Yijun Bian*, Yijun Wang, Yaqiang Yao, and Huanhuan Chen*, \"Ensemble pruning based on objection maximization with a general distributed framework\", IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3766–3774, Sept 2020. 
+[https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]]
 
 === Conference paper
 
-. Abhijith Sharma, *Yijun Bian*, Vatsal Nanda, Phil Munz, and Apurva Narayan, \"Vulnerability of CNNs against multi-patch attacks\", Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23), pp. 23–32, Apr 2023, doi: 10.1145/3579988.3585054. 
-\n [https://dl.acm.org/doi/abs/10.1145/3579988.3585054 \[paper\]][https://doi.org/10.1145/3579988.3585054 \[doi\]]
+. Abhijith Sharma, *Yijun Bian*, Vatsal Nanda, Phil Munz, and Apurva Narayan, \"Vulnerability of CNNs against multi-patch attacks\", Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23), pp. 23–32, Apr 2023. 
+[https://dl.acm.org/doi/abs/10.1145/3579988.3585054 \[paper\]][https://doi.org/10.1145/3579988.3585054 \[doi\]]
 
 
 # == Teaching
@@ -74,7 +78,7 @@ Here * denotes /corresponding author/, and \# denotes /equal contributions/
 
 - \"Increasing Fairness via Combination with Learning Guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All Mentorship Workshop], Oct 2023. [pre_letall.pdf \[slides\]]
 
-== Professional activities
+== Professional Activities
 
 === Journal reviewer
 . Scientific Reports, since Jun 2023
