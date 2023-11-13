@@ -9,13 +9,29 @@
 
 === Preprints
 
-- Yijun Bian* and Kun Zhang, “Increasing fairness in compromise on accuracy via weighted vote with learning guarantees,” Under Review, arXiv preprint arXiv:2301.10813, 2023. (Available online: arXiv)
-
-- Abhijith Sharma\#, Yijun Bian\#*, Phil Munz, and Apurva Narayan, “Adversarial patch attacks and defences in vision-based tasks: A survey,” Under Review, arXiv preprint arXiv:2206.08304, 2022. (Available online: arXiv, TechRxiv)
+. *Yijun Bian** and Kun Zhang, “Increasing fairness in compromise on accuracy via weighted vote with learning guarantees,” arXiv preprint arXiv:2301.10813, 2023. Under Review. [https://arxiv.org/abs/2301.10813 \[arXiv\]]
+. Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, “Adversarial patch attacks and defences in vision-based tasks: A survey,” Under Review, arXiv preprint arXiv:2206.08304, 2022. [https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
 
 === Peer-reviewed articles
 
+. *Yijun Bian*, Qingquan Song, Mengnan Du, Jun Yao, Huanhuan Chen* and Xia Hu, “Subarchitecture ensemble pruning in neural architecture search,” IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 12, pp. 7928-7936, Dec 2022, doi: 10.1109/TNNLS.2021.3085299. 
+[https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]]
+. *Yijun Bian* and Huanhuan Chen*, “When does diversity help generalization in classification ensembles?” IEEE Transactions on Cybernetics, vol. 52, no. 9, pp. 9059–9075, Sept 2022, doi: 10.1109/TCYB.2021.3053165. 
+[https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]]
+. *Yijun Bian*, Yijun Wang, Yaqiang Yao and Huanhuan Chen*, “Ensemble pruning based on objection maximization with a general distributed framework,” IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3766–3774, Sept 2020, doi: 10.1109/TNNLS.2019.2945116. 
+[https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]]
+
 === Peer-reviewed conference paper
 
+. Abhijith Sharma, *Yijun Bian*, Vatsal Nanda, Phil Munz, and Apurva Narayan, “Vulnerability of CNNs against multi-patch attacks,” Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23), pp. 23–32, Apr 2023, doi: 10.1145/3579988.3585054. 
+[https://dl.acm.org/doi/abs/10.1145/3579988.3585054 \[paper\]][https://doi.org/10.1145/3579988.3585054 \[doi\]]
+
+
 == Released code of research projects
+- [https://github.com/eustomaqua/SAEP SAEP], Aug to Sept 2022 \n
+Official released code for the paper entitled “Subarchitecture Ensemble Pruning in Neural Architecture Search.”
+- [https://github.com/eustomaqua/EPFD EPFD], Apr 2020 to Sept 2021 \n
+Official released code for the paper entitled “Ensemble Pruning Based on Objection Maximisation With a General Distributed Framework.”
+- [https://github.com/eustomaqua/PyEnsemble PyEnsemble], Jul 2019 to Apr 2020 \n
+This is an open-source library for ensemble learning methods, diversity measures, and ensemble pruning methods.
 
