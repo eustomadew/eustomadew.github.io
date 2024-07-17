@@ -6,18 +6,22 @@
 
 # ~~~
 # {}{img_left}{1559651012886.jpeg}{alt text}{115px}{160px}{https://eustomadew.github.io/}
-Research Fellow,\n College of Design and Engineering, \n National University of Singapore\n
+# Research Fellow,\n College of Design and Engineering, \n National University of Singapore\n
+Postdoc,\n Department of Computer Science,\n University of Copenhagen\n
 
 === Contact me
 # Emails: yjbian92@{gmail, hotmail}.com\n
 Email: yjbian@mail.ustc.edu.cn \n
-Location: Singapore \n
+# Location: Singapore \n
+Location: Copenhagen, Denmark\n
 # ~~~
 
 == Biography
 # [mailto:yjbian@nus.edu.sg Email], [https://github.com/eustomaqua GitHub], [https://www.linkedin.com/in/yijunbian/ LinkedIn], [https://orcid.org/0000-0002-5926-7100 ORCID], [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google scholar]
 
-I am currently a postdoctoral research fellow at the College of Design & Engineering, National University of Singapore (NUS). Prior to joining NUS, I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [http://staff.ustc.edu.cn/~hchen/ Huanhuan Chen]. I was a visiting research student once with the DATA Lab, Department of Computer Science & Engineering, Texas A&M University. Before that, I received my Bachelor’s degree from the College of Science, Northwest A&F University (NWAFU). 
+# I am currently a postdoctoral research fellow at the College of Design & Engineering, National University of Singapore (NUS). Prior to joining NUS, 
+I am currently a MSCA postdoc at the Department of Computer Science, University of Copenhagen (UCPH). Prior to joining UCPH, I was a postdoctoral research fellow at the National University of Singapore (NUS). 
+I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [http://staff.ustc.edu.cn/~hchen/ Huanhuan Chen]. I was a visiting research student once with the DATA Lab, Department of Computer Science & Engineering, Texas A&M University. Before that, I received my Bachelor’s degree from the College of Science, Northwest A&F University (NWAFU). 
 
 
 == Education
@@ -48,6 +52,7 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 === Preprints
 
+. *Yijun Bian**, Yujie Luo, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\", arXiv preprint arXiv:2405.09251, 2024. 
 . *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees\", arXiv preprint arXiv:2301.10813, 2023. Under Review. 
 [https://arxiv.org/abs/2301.10813 \[arXiv\]]
 . Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey\", arXiv preprint arXiv:2206.08304, 2022. Under Review. 
@@ -73,6 +78,7 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 === Teaching & research
 
+- Postdoctoral research fellow @NUS, Mar 2023 to Jul 2024
 - Graduate research assistant @USTC, Sept 2014 to Nov 2020
 - Visiting research scholar @TAMU, Nov 2018 to Apr 2019
 - Teaching assistant @USTC, Mar 2016 to Jul 2016
@@ -84,12 +90,13 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 == Professional Activities
 
 === Journal reviewer
-. Scientific Reports, since Jun 2023
-. IEEE Transactions on Pattern Analysis and Machine Intelligence, since May 2023
-. Journal of Supercomputing, since Mar 2023
-. IEEE Transactions on Emerging Topics in Computational Intelligence, since Sept 2021
-. Neural Networks, since Nov 2020
-. IEEE Transactions on Neural Networks and Learning Systems, since Aug 2016
+. Information Sciences  #, since May 2024
+. Scientific Reports  #, since Jun 2023
+. IEEE Transactions on Pattern Analysis and Machine Intelligence  #, since May 2023
+. Journal of Supercomputing  #, since Mar 2023
+. IEEE Transactions on Emerging Topics in Computational Intelligence  #, since Sept 2021
+. Neural Networks  #, since Nov 2020
+. IEEE Transactions on Neural Networks and Learning Systems  #, since Aug 2016
 
 === Open-source contributor
 - AdaNet (Google’s open-source project), merged [https://github.com/tensorflow/adanet/pull/133 pull request], Oct 2019
@@ -106,7 +113,8 @@ official released code for \"Ensemble pruning based on objection maximisation wi
 
 == Selected Honours & Awards
 
-- Seal of Excellence under the HORIZON Europe MSCA call 2022, European Commission, Apr 2023
+- Awardee of MSCA Postdoctoral Fellowship 2022, European Commission  #, Nov 2023
+- Seal of Excellence under the HORIZON Europe MSCA call 2022, European Commission  #, Apr 2023
 - GDC Technology Scholarship, USTC, Oct 2019
 - International Exchange Funding for Excellent Students, USTC, Apr 2018
 - First-class Academic Scholarship, USTC, Sept 2015

@@ -27,6 +27,7 @@ $ hugo server  # http://localhost:1313 (bind address 127.0.0.1)
 #              # Press Ctrl+C to stop
 ```
 ```
+$ cd website
 $ python jemdoc.py index.jemdoc
 $ python jemdoc.py -c myfooterend.conf index.jemdoc
 ```
