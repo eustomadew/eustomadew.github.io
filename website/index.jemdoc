@@ -7,7 +7,7 @@
 # ~~~
 # {}{img_left}{1559651012886.jpeg}{alt text}{115px}{160px}{https://eustomadew.github.io/}
 # Research Fellow,\n College of Design and Engineering, \n National University of Singapore\n
-Postdoc,\n Department of Computer Science,\n University of Copenhagen\n
+Postdoc,\n Machine Learning Section,\n Department of Computer Science,\n University of Copenhagen\n
 
 === Contact me
 Emails: yjbian92@{gmail, hotmail}.com\n
@@ -20,9 +20,11 @@ Location: Copenhagen, Denmark\n
 == Biography
 # [mailto:yjbian@nus.edu.sg Email], [https://github.com/eustomaqua GitHub], [https://www.linkedin.com/in/yijunbian/ LinkedIn], [https://orcid.org/0000-0002-5926-7100 ORCID], [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google scholar]
 
-# I am currently a postdoctoral research fellow at the College of Design & Engineering, National University of Singapore (NUS). Prior to joining NUS, 
-I am currently a MSCA postdoc at the Department of Computer Science, University of Copenhagen (UCPH). Prior to joining UCPH, I was a postdoctoral research fellow at the National University of Singapore. 
-I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [http://staff.ustc.edu.cn/~hchen/ Huanhuan Chen]. I was a visiting research student once with the DATA Lab, Department of Computer Science & Engineering, Texas A&M University. Before that, I received my Bachelor’s degree from the College of Science, Northwest A&F University (NWAFU). 
+# # I am currently a postdoctoral research fellow at the College of Design & Engineering, National University of Singapore (NUS). Prior to joining NUS, 
+# I am currently a MSCA postdoc at the Department of Computer Science, University of Copenhagen (UCPH). Prior to joining UCPH, I was a postdoctoral research fellow at the National University of Singapore. I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [http://staff.ustc.edu.cn/~hchen/ Huanhuan Chen]. I was a visiting research student once with the DATA Lab, Department of Computer Science & Engineering, Texas A&M University. Before that, I received my Bachelor’s degree from the College of Science, Northwest A&F University (NWAFU). 
+
+I am currently a MSCA postdoc advised by Prof. [https://sites.google.com/site/yevgenyseldin Yevgeny Seldin] at the Department of Computer Science, University of Copenhagen (UCPH), funded by the European Union (the [https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details FairML] project, and [https://cordis.europa.eu/project/id/101106768 CORDIS]). I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [http://staff.ustc.edu.cn/~hchen/ Huanhuan Chen]. 
+My research interests span the areas of machine learning, ensemble methods, and fairness in machine learning. 
 
 
 == Publications
@@ -118,8 +120,8 @@ official released code for \"Ensemble pruning based on objection maximisation wi
 
 == Selected Honours & Awards
 
-- Awardee of Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship 2022, European Commission  #, Nov 2023
-- Seal of Excellence under the HORIZON Europe MSCA call 2022, European Commission  #, Apr 2023
+- Awardee of Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship 2022  #, European Commission  #, Nov 2023
+- Seal of Excellence under the HORIZON Europe MSCA call 2022, European Commission, Apr 2023
 - GDC Technology Scholarship, USTC, Oct 2019
 - International Exchange Funding for Excellent Students, USTC, Apr 2018
 - First-class Academic Scholarship, USTC, Sept 2015
