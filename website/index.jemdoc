@@ -42,10 +42,12 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 === Preprints
 
-. *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes\", arXiv preprint arXiv:, 2024. Under Review.
+. *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes\", 2024. Under Review. # arXiv preprint arXiv:,
 . *Yijun Bian*\#*, Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\", arXiv preprint arXiv:2405.09251, 2024. 
-. Jinghan Huang, Qiufeng Chen, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data\", arXiv preprint arXiv:2403.06687, 2024. Under Review. [https://arxiv.org/abs/2403.06687 \[arXiv\]]
-. *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees\", arXiv preprint arXiv:2301.10813, 2023. Under Review. 
+[https://arxiv.org/abs/2405.09251 \[arXiv\]]
+. Jinghan Huang, Qiufeng Chen, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data\", arXiv preprint arXiv:2403.06687, 2024. 
+[https://arxiv.org/abs/2403.06687 \[arXiv\]] # Under Review. 
+. *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees\", arXiv preprint arXiv:2301.10813, 2023. # Under Review. 
 [https://arxiv.org/abs/2301.10813 \[arXiv\]]
 . Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey\", arXiv preprint arXiv:2206.08304, 2022. 
 [https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
