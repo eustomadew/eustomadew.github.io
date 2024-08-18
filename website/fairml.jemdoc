@@ -1,17 +1,28 @@
 # jemdoc: menu{MENU}{fairml.html}, footer
 ==Theory of Fair Machine Learning (FairML)
 
-~~~
-{}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{160.4px}{107px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
-# {}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{164.9px}{110px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
-# {}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{157.4px}{105px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
-# {}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{180}{120px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
-# {}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{115px}{76.7px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
-# {}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{239.9px}{160px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
+# ~~~
+# {}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{160.4px}{107px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
+# # {}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{164.9px}{110px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
+# # {}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{157.4px}{105px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
+# # {}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{180}{120px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
+# # {}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{115px}{76.7px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
+# # {}{img_left}{normal-reproduction-high-resolution.jpg}{alt text}{239.9px}{160px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
+
 
 === Disclaimer
-Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them.
+Funded by the European Union (MSCA, FairML, project no. 101106768). \n
+Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them.
+
 ~~~
+{}{img_left}{EN-Funded by the EU-POS.jpg}{alt text}{306}{64.2}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
+# {}{img_left}{EN-Funded by the EU-POS.jpg}{alt text}{340px}{71.3px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
+# {}{img_left}{EN-Funded by the EU-POS.jpg}{alt text}{510px}{107px}{https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details}
+
+# (the [https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details FairML] project, and [https://cordis.europa.eu/project/id/101106768 CORDIS])
+~~~
+
+
 
 # \[back to [index.html home]\]
 
@@ -21,14 +32,17 @@ Funded by the European Union. Views and opinions expressed are however those of 
 
 
 == Research Findings
+TBA.
 
 
 == Released Outcomes
 
 === Major deliverables
+TBA.
+
 # . Personal career development plan
-- Full data management plan
-- Release of a public report
-- Website built via Google sites to present research findings of this project
-- Released ML models and software tools via GitHub public repositories for scholars to facilitate their reproduction of my results
+# - Full data management plan
+# - Release of a public report
+# - Website built via Google sites to present research findings of this project
+# - Released ML models and software tools via GitHub public repositories for scholars to facilitate their reproduction of my results
 
