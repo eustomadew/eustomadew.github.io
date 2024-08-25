@@ -42,9 +42,9 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 === Preprints
 
-. *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes\", arXiv preprint arXiv:2408.06099, 2024. Under Review.  
+. *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes\", arXiv preprint arXiv:2408.06099, 2024. Under Review. 
 [https://arxiv.org/abs/2408.06099 \[arXiv\]]
-. *Yijun Bian*\#*, Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\", arXiv preprint arXiv:2405.09251, 2024. 
+. *Yijun Bian*\#*, Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\", arXiv preprint arXiv:2405.09251, 2024. Under Review. 
 [https://arxiv.org/abs/2405.09251 \[arXiv\]]
 . Jinghan Huang, Qiufeng Chen, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data\", arXiv preprint arXiv:2403.06687, 2024. 
 [https://arxiv.org/abs/2403.06687 \[arXiv\]] # Under Review. 
@@ -92,8 +92,9 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 - Visiting research scholar @TAMU, Nov 2018 to Apr 2019
 - Teaching assistant @USTC, Mar 2016 to Jul 2016
 
-=== Presentation
+=== Presentations
 
+- \"Developing Fair ML Models from Theoretical Aspects\", [https://conferences.au.dk/asslt/details Aarhus Summer School on Learning Theory], Aug 2024. [pre_aarhus.pdf \[slides\]]
 - \"Increasing Fairness via Combination with Learning Guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All Mentorship Workshop], Oct 2023. [pre_letall.pdf \[slides\]]
 
 
