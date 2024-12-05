@@ -95,6 +95,10 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 - Visiting research scholar @TAMU, Nov 2018 to Apr 2019
 - Teaching assistant @USTC, Mar 2016 to Jul 2016
 
+=== Invited talk
+
+- \"Study of FAIR ML Models from a Theoretical Perspective\", [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar], Dec 2024. [pre24_melanie.pdf \[slides\]]
+
 === Presentations
 
 # - \"Developing Fair ML Models from Theoretical Aspects\", [https://conferences.au.dk/asslt/details Aarhus Summer School on Learning Theory], Aug 2024. [pre_aarhus.pdf \[slides\]]
@@ -111,11 +115,11 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 === Journal reviewer
 . Information Sciences, since May 2024
 . Scientific Reports, since Jun 2023
-. IEEE Transactions on Pattern Analysis and Machine Intelligence, since May 2023
+. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), since May 2023
 . Journal of Supercomputing, since Mar 2023
-. IEEE Transactions on Emerging Topics in Computational Intelligence, since Sept 2021
+. IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), since Sept 2021
 . Neural Networks, since Nov 2020
-. IEEE Transactions on Neural Networks and Learning Systems, since Aug 2016
+. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), since Aug 2016
 
 === Open-source contributor
 - AdaNet (Google’s open-source project), merged [https://github.com/tensorflow/adanet/pull/133 pull request], Oct 2019
