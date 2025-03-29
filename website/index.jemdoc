@@ -40,37 +40,48 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 # [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Full list of publications].
 # \n
 # Here * denotes /corresponding author/, and \# denotes /equal contributions/ 
+# . *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees\", arXiv preprint arXiv:2301.10813, 2023. # Under Review. 
+[https://arxiv.org/abs/2301.10813 \[arXiv\]]
 
 === Preprints
 
-. Lei You\*, *Yijun Bian*, Lele Cao, \"Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality\", arXiv preprint arXiv:2410.05419, 2024. Under Review. 
+. Lei You\*, *Yijun Bian*, Lele Cao, \"Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality\", /arXiv preprint arXiv:2410.05419,/ 2024. Under Review. 
 [https://arxiv.org/abs/2410.05419 \[arXiv\]]
-. *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes\", arXiv preprint arXiv:2408.06099, 2024. Under Review. 
+. *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes\", /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review. 
 [https://arxiv.org/abs/2408.06099 \[arXiv\]]
-. *Yijun Bian*\#*, Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\", arXiv preprint arXiv:2405.09251, 2024. Under Review. 
+. *Yijun Bian*\#*, Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\", /arXiv preprint arXiv:2405.09251,/ 2024. # Under Review. 
 [https://arxiv.org/abs/2405.09251 \[arXiv\]]
-. Jinghan Huang, Qiufeng Chen, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data\", arXiv preprint arXiv:2403.06687, 2024. 
+. Jinghan Huang, Qiufeng Chen, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data\", /arXiv preprint arXiv:2403.06687,/ 2024. Under Review. 
 [https://arxiv.org/abs/2403.06687 \[arXiv\]] # Under Review. 
-. *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees\", arXiv preprint arXiv:2301.10813, 2023. # Under Review. 
+. *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees\", /arXiv preprint arXiv:2301.10813,/ 2023. Under Review. 
 [https://arxiv.org/abs/2301.10813 \[arXiv\]]
-. Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey\", arXiv preprint arXiv:2206.08304, 2022. 
+. Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey\", /arXiv preprint arXiv:2206.08304,/ 2022. 
 [https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
 
-=== Journal articles
 
-. Ming Chen, *Yijun Bian*, Nanguang Chen, and Anqi Qiu*, \"Orthogonal mixed-effects modeling for high-dimensional longitudinal data: An unsupervised learning approach\", IEEE Transactions on Medical Imaging, accepted. 
-[https://ieeexplore.ieee.org/abstract/document/10616022 \[paper\]][https://github.com/MChen808/UOMETM \[code\]][https://doi.org/10.1109/TMI.2024.3435855 \[doi\]]
-. *Yijun Bian*, Qingquan Song, Mengnan Du, Jun Yao, Huanhuan Chen*, and Xia Hu, \"Subarchitecture ensemble pruning in neural architecture search\", IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 12, pp. 7928-7936, Dec 2022. 
-[https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]]
-. *Yijun Bian* and Huanhuan Chen*, \"When does diversity help generalization in classification ensembles?\" IEEE Transactions on Cybernetics, vol. 52, no. 9, pp. 9059–9075, Sept 2022. 
-[https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]]
-. *Yijun Bian*, Yijun Wang, Yaqiang Yao, and Huanhuan Chen*, \"Ensemble pruning based on objection maximization with a general distributed framework\", IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3766–3774, Sept 2020. 
-[https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]]
+=== Non-archival posters
+
+. *Yijun Bian*, and Kun Zhang, \"Increasing Fairness via Combination with Learning Guarantees,\" in /NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning (M3L),/ Dec 2024. 
+[https://openreview.net/forum?id=QHILhNkVUX \[paper\]][posters/2024_m3l_bounds.pdf \[poster\]]
+. *Yijun Bian*, Yujie Luo, and Ping Xu, \"Does Machine Bring in Extra Bias in Learning? Approximating Discrimination Within Models Quickly,\" in /NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning (M3L),/ Dec 2024. 
+[https://openreview.net/forum?id=ywqVkVQZDj \[paper\]][posters/2024_m3l_fairmanf.pdf \[poster\]]
 
 === Conference paper
 
-. Abhijith Sharma, *Yijun Bian*, Vatsal Nanda, Phil Munz, and Apurva Narayan, \"Vulnerability of CNNs against multi-patch attacks\", Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23), pp. 23–32, Apr 2023. 
+. Abhijith Sharma, *Yijun Bian*, Vatsal Nanda, Phil Munz, and Apurva Narayan, \"Vulnerability of CNNs against multi-patch attacks\", in /Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23),/ pp. 23–32, Apr 2023. 
 [https://dl.acm.org/doi/abs/10.1145/3579988.3585054 \[paper\]][https://doi.org/10.1145/3579988.3585054 \[doi\]]
+
+=== Journal articles
+
+. Ming Chen, *Yijun Bian*, Nanguang Chen, and Anqi Qiu*, \"Orthogonal mixed-effects modeling for high-dimensional longitudinal data: An unsupervised learning approach\", /IEEE Transactions on Medical Imaging,/ accepted. 
+[https://ieeexplore.ieee.org/abstract/document/10616022 \[paper\]][https://github.com/MChen808/UOMETM \[code\]][https://doi.org/10.1109/TMI.2024.3435855 \[doi\]]
+. *Yijun Bian*, Qingquan Song, Mengnan Du, Jun Yao, Huanhuan Chen*, and Xia Hu, \"Subarchitecture ensemble pruning in neural architecture search\", /IEEE Transactions on Neural Networks and Learning Systems,/ vol. 33, no. 12, pp. 7928-7936, Dec 2022. 
+[https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]]
+. *Yijun Bian* and Huanhuan Chen*, \"When does diversity help generalization in classification ensembles?\" /IEEE Transactions on Cybernetics,/ vol. 52, no. 9, pp. 9059–9075, Sept 2022. 
+[https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]]
+. *Yijun Bian*, Yijun Wang, Yaqiang Yao, and Huanhuan Chen*, \"Ensemble pruning based on objection maximization with a general distributed framework\", /IEEE Transactions on Neural Networks and Learning Systems,/ vol. 31, no. 9, pp. 3766–3774, Sept 2020. 
+[https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]]
+
 
 
 
@@ -115,6 +126,7 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 == Professional Activities
 
 === Journal reviewer
+. IEEE Transactions on Image Processing (TIP), since Mar 2025
 . Information Sciences, since May 2024
 . Scientific Reports, since Jun 2023
 . IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), since May 2023
