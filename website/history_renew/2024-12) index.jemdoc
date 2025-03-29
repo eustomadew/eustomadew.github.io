@@ -40,7 +40,8 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 # [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Full list of publications].
 # \n
 # Here * denotes /corresponding author/, and \# denotes /equal contributions/ 
-# . *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees\", arXiv preprint arXiv:2301.10813, 2023. # Under Review. [https://arxiv.org/abs/2301.10813 \[arXiv\]]
+# . *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees\", arXiv preprint arXiv:2301.10813, 2023. # Under Review. 
+[https://arxiv.org/abs/2301.10813 \[arXiv\]]
 
 === Preprints
 
@@ -72,8 +73,7 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 === Journal articles
 
-. Ming Chen, *Yijun Bian*, Nanguang Chen, and Anqi Qiu*, \"Orthogonal mixed-effects modeling for high-dimensional longitudinal data: An unsupervised learning approach\", /IEEE Transactions on Medical Imaging,/ # accepted. 
-vol. 44, no. 1, pp. 207-220, Jan 2025. 
+. Ming Chen, *Yijun Bian*, Nanguang Chen, and Anqi Qiu*, \"Orthogonal mixed-effects modeling for high-dimensional longitudinal data: An unsupervised learning approach\", /IEEE Transactions on Medical Imaging,/ accepted. 
 [https://ieeexplore.ieee.org/abstract/document/10616022 \[paper\]][https://github.com/MChen808/UOMETM \[code\]][https://doi.org/10.1109/TMI.2024.3435855 \[doi\]]
 . *Yijun Bian*, Qingquan Song, Mengnan Du, Jun Yao, Huanhuan Chen*, and Xia Hu, \"Subarchitecture ensemble pruning in neural architecture search\", /IEEE Transactions on Neural Networks and Learning Systems,/ vol. 33, no. 12, pp. 7928-7936, Dec 2022. 
 [https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]]
@@ -106,34 +106,34 @@ vol. 44, no. 1, pp. 207-220, Jan 2025.
 - Visiting research scholar @TAMU, Nov 2018 to Apr 2019
 - Teaching assistant @USTC, Mar 2016 to Jul 2016
 
-
+# === Invited talk
 === Invited presentations
 
-- \"Study of FAIR ML models from a theoretical perspective\", [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar @DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
-- \"Increasing fairness via combination with learning guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
+- \"Study of FAIR ML models from a theoretical perspective\", [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar], Dec 2024. [pre24_melanie.pdf \[slides\]]
+- \"Increasing fairness via combination with learning guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop], Oct 2023. [pre_letall.pdf \[slides\]]
 
-
-# Other talks
+# === Presentations
+#
+# # - \"Developing Fair ML Models from Theoretical Aspects\", [https://conferences.au.dk/asslt/details Aarhus Summer School on Learning Theory], Aug 2024. [pre_aarhus.pdf \[slides\]]
+# # - \"Increasing Fairness via Combination with Learning Guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All Mentorship Workshop], Oct 2023. [pre_letall.pdf \[slides\]]
+#
+# - \"Study of fair ML models from a theoretical perspective\", [https://sites.google.com/diku.edu/delta DeLTA seminar], Nov 2024. 
 # - \"Increasing fairness via combination with learning guarantees\", [https://di.ku.dk/english/research/machine-learning/ ML section meeting], Nov 2024. [diku_alternative.pdf \[slides\]]
-# - \"Study of fair ML models from a theoretical perspective\", [https://sites.google.com/diku.edu/delta DeLTA seminar], Nov 2024. [pre_dk_delta.pdf \[slides\]]
-# - \"Developing Fair ML models from theoretical aspects\", [https://conferences.au.dk/asslt/details Aarhus summer school on learning theory], Aug 2024. [pre_aarhus.pdf \[slides\]]
-# - \"Increasing fairness via combination with learning guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All Mentorship Workshop], Oct 2023. [pre_letall.pdf \[slides\]]
-
-
+# - \"Developing fair ML models from theoretical aspects\", [https://conferences.au.dk/asslt/details Aarhus summer school on learning theory], Aug 2024. [pre_aarhus.pdf \[slides\]]
 
 
 
 == Professional Activities
 
 === Journal reviewer
-- Since Mar 2025, IEEE Transactions on Image Processing (TIP)
-- Since May 2024, Information Sciences
-- Since Jun 2023, Scientific Reports
-- Since May 2023, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-- Since Mar 2023, Journal of Supercomputing
-- Since Sept 2021, IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
-- Since Nov 2020, Neural Networks
-- Since Aug 2016, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+. IEEE Transactions on Image Processing (TIP), since Mar 2025
+. Information Sciences, since May 2024
+. Scientific Reports, since Jun 2023
+. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), since May 2023
+. Journal of Supercomputing, since Mar 2023
+. IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), since Sept 2021
+. Neural Networks, since Nov 2020
+. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), since Aug 2016
 
 === Open-source contributor
 - AdaNet (Google’s open-source project), merged [https://github.com/tensorflow/adanet/pull/133 pull request], Oct 2019
@@ -141,12 +141,12 @@ vol. 44, no. 1, pp. 207-220, Jan 2025.
 - AutoKeras, merged pull requests [https://github.com/keras-team/autokeras/pull/656 a] and [https://github.com/keras-team/autokeras/pull/666 b] in the blocks branch, Jun 2019
 
 === Released code of projects
-. [https://github.com/eustomaqua/ApproxBias ApproxBias], official released code for \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\" and \"Approximating discrimination within models when faced with several non-binary sensitive attributes\".
-. [https://github.com/eustomaqua/SAEP SAEP], 
+- [https://github.com/eustomaqua/ApproxBias ApproxBias], official released code for \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\" and \"Approximating discrimination within models when faced with several non-binary sensitive attributes\".
+- [https://github.com/eustomaqua/SAEP SAEP], 
 official released code for \"Subarchitecture ensemble pruning in neural architecture search\".
-. [https://github.com/eustomaqua/EPFD EPFD], 
+- [https://github.com/eustomaqua/EPFD EPFD], 
 official released code for \"Ensemble pruning based on objection maximisation with a general distributed framework\".
-. [https://github.com/eustomaqua/PyEnsemble PyEnsemble], an open-source library for ensemble learning methods, diversity measures, and ensemble pruning methods.
+- [https://github.com/eustomaqua/PyEnsemble PyEnsemble], an open-source library for ensemble learning methods, diversity measures, and ensemble pruning methods.
 
 
 == Selected Honours & Awards
