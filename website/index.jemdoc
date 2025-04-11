@@ -48,13 +48,13 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 # . Alina Basharat, *Yijun Bian*, Ping Xu*, and Zhi Tian, \"Towards trustworthy federated learning,\" /arXiv preprint 2503.03684,/ 2025. 
 # [https://arxiv.org/abs/2503.03684 \[arXiv\]]
 . Lei You\*, *Yijun Bian*, Lele Cao, \"Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality,\" /arXiv preprint arXiv:2410.05419,/ 2024. Under Review. 
-[https://arxiv.org/abs/2410.05419 \[arXiv\]]
+[https://arxiv.org/abs/2410.05419 \[arXiv\]][https://github.com/youlei202/Refining-Counterfactual-Explanations/tree/experiments \[code\]][https://github.com/understanding-ml/COLA \[software\]]  # software,package,release
 . *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes,\" /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review. 
 [https://arxiv.org/abs/2408.06099 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]]
 . *Yijun Bian*\#*, Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly,\" /arXiv preprint arXiv:2405.09251,/ 2024. # Under Review. 
 [https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]]
-. Jinghan Huang, Qiufeng Chen, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data,\" /arXiv preprint arXiv:2403.06687,/ 2024. Under Review. 
-[https://arxiv.org/abs/2403.06687 \[arXiv\]] # Under Review. 
+. Jinghan Huang\#, Qiufeng Chen\#, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data,\" /arXiv preprint arXiv:2403.06687,/ 2024. Under Review. 
+[https://arxiv.org/abs/2403.06687 \[arXiv\]][https://github.com/JH-415/HL-HGAT \[code\]] # Under Review. 
 . *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. Under Review. 
 [https://arxiv.org/abs/2301.10813 \[arXiv\]]
 . Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey,\" /arXiv preprint arXiv:2206.08304,/ 2022. 
@@ -119,7 +119,7 @@ vol. 44, no. 1, pp. 207-220, Jan 2025.
 === Invited presentations
 
 - \"Study of FAIR ML models from a theoretical perspective\", [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar @DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
-- \"Increasing fairness via combination with learning guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
+- \"Increasing fairness via combination with learning guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2, Practice talk), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
 
 
 # Other talks
