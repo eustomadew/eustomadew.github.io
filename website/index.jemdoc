@@ -23,8 +23,9 @@ Location: Copenhagen, Denmark\n
 # # I am currently a postdoctoral research fellow at the College of Design & Engineering, National University of Singapore (NUS). Prior to joining NUS, 
 # I am currently a MSCA postdoc at the Department of Computer Science, University of Copenhagen (UCPH). Prior to joining UCPH, I was a postdoctoral research fellow at the National University of Singapore. I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [http://staff.ustc.edu.cn/~hchen/ Huanhuan Chen]. I was a visiting research student once with the DATA Lab, Department of Computer Science & Engineering, Texas A&M University. Before that, I received my Bachelor’s degree from the College of Science, Northwest A&F University (NWAFU). 
 # I am also a member of the [https://sites.google.com/diku.edu/delta DeLTA lab]. 
+# Marie Skłodowska-Curie postdoctoral fellow (postdoc)
 
-I am currently a MSCA postdoc advised by Prof. [https://sites.google.com/site/yevgenyseldin Yevgeny Seldin] at the Department of Computer Science, University of Copenhagen (UCPH), funded by the European Union (the [https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details FairML] project, and [https://cordis.europa.eu/project/id/101106768 CORDIS]). I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [http://staff.ustc.edu.cn/~hchen/ Huanhuan Chen]. 
+I am currently a Marie Skłodowska-Curie postdoctoral fellow advised by Prof. [https://sites.google.com/site/yevgenyseldin Yevgeny Seldin] at the Department of Computer Science, University of Copenhagen (UCPH), funded by the European Union (the [https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details FairML] project, and [https://cordis.europa.eu/project/id/101106768 CORDIS]). I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [http://staff.ustc.edu.cn/~hchen/ Huanhuan Chen]. 
 My research interests span the areas of machine learning, ensemble methods, and fairness in machine learning. 
 
 
@@ -44,10 +45,10 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 === Preprints
 
-# . *Yijun Bian**, \"Fairness research for machine learning should integrate societal considerations,\" 2025.
-# . Alina Basharat, *Yijun Bian*, Ping Xu*, and Zhi Tian, \"Towards trustworthy federated learning,\" /arXiv preprint 2503.03684,/ 2025. 
-# [https://arxiv.org/abs/2503.03684 \[arXiv\]]
-. Lei You\*, *Yijun Bian*, Lele Cao, \"Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality,\" /arXiv preprint arXiv:2410.05419,/ 2024. Under Review. 
+. *Yijun Bian** and Lei You, \"Fairness research for machine learning should integrate societal considerations,\" 2025.
+. Alina Basharat, *Yijun Bian*, Ping Xu*, and Zhi Tian, \"Towards trustworthy federated learning,\" /arXiv preprint 2503.03684,/ 2025. 
+[https://arxiv.org/abs/2503.03684 \[arXiv\]]
+. Lei You\*, *Yijun Bian*, Lele Cao, \"Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality,\" /arXiv preprint arXiv:2410.05419,/ 2024. # Under Review. 
 [https://arxiv.org/abs/2410.05419 \[arXiv\]][https://github.com/youlei202/Refining-Counterfactual-Explanations/tree/experiments \[code\]][https://github.com/understanding-ml/COLA \[software\]]  # software,package,release
 . *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes,\" /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review. 
 [https://arxiv.org/abs/2408.06099 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]]
@@ -118,6 +119,7 @@ vol. 44, no. 1, pp. 207-220, Jan 2025.
 
 === Invited presentations
 
+- \"Fairness evaluation in ML. Why would we care?\", Guest lecture @DTU, May 2025.
 - \"Study of FAIR ML models from a theoretical perspective\", [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar @DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
 - \"Increasing fairness via combination with learning guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2, Practice talk), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
 
