@@ -45,10 +45,10 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 === Preprints
 
-. Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" /arxiv preprint 2505.11111,/ 2025. Under Review. 
+. Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" /arXiv preprint arXiv:2505.11111,/ 2025. Under Review. 
 [https://arxiv.org/abs/2505.11111 \[arXiv\]][https://github.com/youlei202/FairSHAP \[code\]]
 . *Yijun Bian** and Lei You, \"Fairness research for machine learning should integrate societal considerations,\" 2025.
-. Alina Basharat, *Yijun Bian*, Ping Xu*, and Zhi Tian, \"Towards trustworthy federated learning,\" /arXiv preprint 2503.03684,/ 2025. 
+. Alina Basharat, *Yijun Bian*, Ping Xu*, and Zhi Tian, \"Towards trustworthy federated learning,\" /arXiv preprint arXiv:2503.03684,/ 2025. 
 [https://arxiv.org/abs/2503.03684 \[arXiv\]]
 . Lei You\*, *Yijun Bian*, and Lele Cao, \"Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality,\" /arXiv preprint arXiv:2410.05419,/ 2024. # Under Review. 
 [https://arxiv.org/abs/2410.05419 \[arXiv\]][https://github.com/youlei202/Refining-Counterfactual-Explanations/tree/experiments \[code\]][https://github.com/understanding-ml/COLA \[software\]]  # software,package,release
@@ -96,7 +96,7 @@ vol. 44, no. 1, pp. 207-220, Jan 2025.
 === Education
 
 - Ph.D. in Computer Science and Technology, University of Science and Technology of China, 2020
-- B.Sc. in Computational Mathematics, Northwest A&F University, 2014
+- B.Sc. in Computational Mathematics, Northwest A&F University (NWAFU), 2014
 
 # === Experiences
 # - Research fellow @NUS, Mar 2023 to present
