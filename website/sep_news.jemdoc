@@ -1,0 +1,56 @@
+# jemdoc: menu{sep_MENU}{sep_news.html}
+== Experiences
+
+=== Education
+
+- Ph.D. in Computer Science and Technology, University of Science and Technology of China, 2020
+- B.Sc. in Computational Mathematics, Northwest A&F University (NWAFU), 2014
+
+=== Experiences
+
+- Postdoctoral research fellow @NUS, Mar 2023 to Jul 2024
+- Algorithm engineer @SIMIT, Dec 2020 to Mar 2023
+- Graduate research assistant @USTC, Sept 2014 to Nov 2020
+- Visiting research scholar @TAMU, Nov 2018 to Apr 2019
+- Teaching assistant @USTC, Mar 2016 to Jul 2016
+
+=== Invited presentations
+
+- \"Fairness evaluation in ML. Why would we care?\" Guest lecture @DTU, May 2025.
+- \"Study of FAIR ML models from a theoretical perspective\", [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar @DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
+- \"Increasing fairness via combination with learning guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2, Practice talk), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
+
+== Selected Honours & Awards
+
+- Awardee of Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship 2022  #, European Commission  #, Nov 2023
+- Seal of Excellence under the HORIZON Europe MSCA call 2022, European Commission, Apr 2023
+- GDC Technology Scholarship, USTC, Oct 2019
+- International Exchange Funding for Excellent Students, USTC, Apr 2018
+- First-class Academic Scholarship, USTC, Sept 2015
+- Outstanding Undergraduate Graduation Thesis (Design), NWAFU, Jun 2014
+- President Scholarship, NWAFU, Dec 2013
+- Merit Student, for three consecutive years, NWAFU, Dec 2011 to Dec 2013
+- First Prize Professional Scholarship, four times in a row, NWAFU, Mar 2011, Oct 2011 to Oct 2013
+# - Best Debater in the Freshman Cup Debate, NWAFU, Nov 2010
+
+
+== Professional Activities
+
+=== Journal reviewer
+- Since Mar 2025, IEEE Transactions on Image Processing (TIP)
+- Since May 2024, Information Sciences
+- Since Jun 2023, Scientific Reports
+- Since May 2023, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- Since Mar 2023, Journal of Supercomputing
+- Since Sept 2021, IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+- Since Nov 2020, Neural Networks
+- Since Aug 2016, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+
+=== Open-source contributor
+- AdaNet (Google’s open-source project), merged [https://github.com/tensorflow/adanet/pull/133 pull request], Oct 2019
+- OpenNE, merged [https://github.com/thunlp/OpenNE/pull/81 pull request], Aug 2019
+- AutoKeras, merged pull requests [https://github.com/keras-team/autokeras/pull/656 a] and [https://github.com/keras-team/autokeras/pull/666 b] in the blocks branch, Jun 2019
+
+
+
+# == News
