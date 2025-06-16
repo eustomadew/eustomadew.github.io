@@ -1,5 +1,7 @@
 # jemdoc: menu{sep_MENU}{sep_news.html}
-== Experiences
+== Curriculum Vitae
+
+# == Experiences
 
 === Education
 
@@ -14,11 +16,6 @@
 - Visiting research scholar @TAMU, Nov 2018 to Apr 2019
 - Teaching assistant @USTC, Mar 2016 to Jul 2016
 
-=== Invited presentations
-
-- \"Fairness evaluation in ML. Why would we care?\" Guest lecture @DTU, May 2025.
-- \"Study of FAIR ML models from a theoretical perspective\", [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar @DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
-- \"Increasing fairness via combination with learning guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2, Practice talk), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
 
 == Selected Honours & Awards
 
@@ -26,7 +23,9 @@
 - Seal of Excellence under the HORIZON Europe MSCA call 2022, European Commission, Apr 2023
 - GDC Technology Scholarship, USTC, Oct 2019
 - International Exchange Funding for Excellent Students, USTC, Apr 2018
+# - Second-class Academic Scholarship, USTC, Sept 2016, Sept 2017, Sept 2018
 - First-class Academic Scholarship, USTC, Sept 2015
+# - Second-class Academic Scholarship, USTC, Sept 2014
 - Outstanding Undergraduate Graduation Thesis (Design), NWAFU, Jun 2014
 - President Scholarship, NWAFU, Dec 2013
 - Merit Student, for three consecutive years, NWAFU, Dec 2011 to Dec 2013
@@ -35,6 +34,13 @@
 
 
 == Professional Activities
+
+=== Invited presentations
+
+- \"Fairness evaluation in ML. Why would we care?\" Guest lecture @DTU, May 2025.
+- \"Study of FAIR ML models from a theoretical perspective\", [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar @DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
+- \"Increasing fairness via combination with learning guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2, Practice talk), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
+
 
 === Journal reviewer
 - Since Mar 2025, IEEE Transactions on Image Processing (TIP)
