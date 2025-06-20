@@ -31,7 +31,6 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 [https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
 
 
-
 === Non-archival posters
 
 - *Yijun Bian* and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" in /NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning (M3L),/ Dec 2024. 
@@ -39,10 +38,7 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 - *Yijun Bian*\#, Yujie Luo\#, and Ping Xu, \"Does machine bring in extra bias in learning? Approximating discrimination within models quickly,\" in /NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning (M3L),/ Dec 2024. 
 [https://openreview.net/forum?id=ywqVkVQZDj \[paper\]][posters/2024_m3l_fairmanf.pdf \[poster\]]
 
-=== Conference paper
 
-. Abhijith Sharma, *Yijun Bian*, Vatsal Nanda, Phil Munz, and Apurva Narayan, \"Vulnerability of CNNs against multi-patch attacks,\" in /Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23),/ pp. 23–32, Apr 2023. 
-[https://dl.acm.org/doi/abs/10.1145/3579988.3585054 \[paper\]][https://doi.org/10.1145/3579988.3585054 \[doi\]]
 
 === Journal articles
 
@@ -55,6 +51,15 @@ vol. 44, no. 1, pp. 207-220, Jan 2025.
 [https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]]
 . *Yijun Bian*, Yijun Wang, Yaqiang Yao, and Huanhuan Chen*, \"Ensemble pruning based on objection maximization with a general distributed framework,\" /IEEE Transactions on Neural Networks and Learning Systems,/ vol. 31, no. 9, pp. 3766–3774, Sept 2020. 
 [https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]]
+
+
+=== Conference paper
+# === Conference proceedings
+
+. Abhijith Sharma, *Yijun Bian*, Vatsal Nanda, Phil Munz, and Apurva Narayan, \"Vulnerability of CNNs against multi-patch attacks,\" in /Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23),/ pp. 23–32, Apr 2023. 
+[https://dl.acm.org/doi/abs/10.1145/3579988.3585054 \[paper\]][https://doi.org/10.1145/3579988.3585054 \[doi\]]
+
+
 
 
 == Released code of projects
