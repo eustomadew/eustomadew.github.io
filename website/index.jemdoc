@@ -1,182 +1,38 @@
-# jemdoc: addcss{person.css}, menu{MENU}{index.html}
-==Yijun Bian 
+# jemdoc: menu {sep_MENU}{sep_index.html}
+== Yijun Bian
 
-# # jemdoc: menu{MENU}{index.html}
-# # jemdoc: addcss{person.css}, showsource
-
-# ~~~
-# {}{img_left}{1559651012886.jpeg}{alt text}{115px}{160px}{https://eustomadew.github.io/}
-# Research Fellow,\n College of Design and Engineering, \n National University of Singapore\n
 Postdoc,\n Machine Learning Section,\n Department of Computer Science,\n University of Copenhagen\n
 
 === Contact me
 Email(s): yibi@di.ku.dk\n
 Alternative: yjbian92@{hotmail, gmail}.com\n
-# Email: yjbian@mail.ustc.edu.cn \n
-# Email: yibi@di.ku.dk, yjbian@nus.edu.sg
-# Location: Singapore \n
 Location: Copenhagen, Denmark\n
-# ~~~
+
 
 == Biography
-# [mailto:yjbian@nus.edu.sg Email], [https://github.com/eustomaqua GitHub], [https://www.linkedin.com/in/yijunbian/ LinkedIn], [https://orcid.org/0000-0002-5926-7100 ORCID], [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google scholar]
+/[mailto:yjbian@mail.ustc.edu.cn Email], [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google Scholar], [https://github.com/eustomaqua GitHub], [https://www.linkedin.com/in/yijunbian/ LinkedIn], [https://dblp.org/pid/222/1897.html dblp], [https://orcid.org/0000-0002-5926-7100 ORCID]/
 
-# # I am currently a postdoctoral research fellow at the College of Design & Engineering, National University of Singapore (NUS). Prior to joining NUS, 
-# I am currently a MSCA postdoc at the Department of Computer Science, University of Copenhagen (UCPH). Prior to joining UCPH, I was a postdoctoral research fellow at the National University of Singapore. I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [http://staff.ustc.edu.cn/~hchen/ Huanhuan Chen]. I was a visiting research student once with the DATA Lab, Department of Computer Science & Engineering, Texas A&M University. Before that, I received my Bachelor’s degree from the College of Science, Northwest A&F University (NWAFU). 
-# I am also a member of the [https://sites.google.com/diku.edu/delta DeLTA lab]. 
-# Marie Skłodowska-Curie postdoctoral fellow (postdoc)
+# IEEE Xplore [https://ieeexplore.ieee.org/author/37088490163]
+# ACM DL [https://dl.acm.org/profile/99660781607]
+# OpenReview [https://openreview.net/profile?id=~Yijun_Bian1]
+# ResearcherID [https://www.webofscience.com/wos/author/record/ADZ-4785-2022]
+# Scopus ID [http://www.scopus.com/authid/detail.url?authorId=57218773477], [https://www.scopus.com/authid/detail.uri?authorId=58391680500]
+# ScholarBank NUS [https://scholarbank.nus.edu.sg/cris/rp/rp132813]
+# Elements NUS [https://meprd.nus.edu.sg/homepage.html]
+
+# \[[mailto:yjbian@mail.ustc.edu.cn Email]\], \[[https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google Scholar]\], \[[https://github.com/eustomaqua GitHub]\], \[[https://www.linkedin.com/in/yijunbian/ LinkedIn]\], \[[https://dblp.org/pid/222/1897.html dblp]\], \[[https://orcid.org/0000-0002-5926-7100 ORCID]\]
+
 
 I am currently a Marie Skłodowska-Curie postdoctoral fellow advised by Prof. [https://sites.google.com/site/yevgenyseldin Yevgeny Seldin] at the Department of Computer Science, University of Copenhagen (UCPH), funded by the European Union (the [https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101106768/program/43108390/details FairML] project, and [https://cordis.europa.eu/project/id/101106768 CORDIS]). I obtained my Ph.D. degree from the Department of Computer Science and Technology, University of Science and Technology of China (USTC), and was very fortunate to be supervised by Prof. [http://staff.ustc.edu.cn/~hchen/ Huanhuan Chen]. 
 My research interests span the areas of machine learning, ensemble methods, and fairness in machine learning. 
 
 
-== Publications
-# First/corresponding-authored (\*) works listed; see [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google Scholar] for complete list.
-# First/corresponding-authored (\*) and equally-contributed-to (\#) works listed; \n See [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google Scholar] for a complete list.
-# First/corresponding-authored (\*) and equally-contributed-to (\#) works listed; [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Full list of publications].
-# Works listed as first/corresponding author (\*) and equal contributions (\#); a complete list is available [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en here].
-# Works listed as first/corresponding author (\*) and equal contributions (\#); more are available [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en here].
-Works listed as first/corresponding author (\*) and equal contributions (\#); see [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en Google Scholar].
+== News
 
-# # More information can be found on my [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Google Scholar] profile \n
-# [https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en&oi=ao Full list of publications].
-# \n
-# Here * denotes /corresponding author/, and \# denotes /equal contributions/ 
-# . *Yijun Bian**, Kun Zhang, Anqi Qiu, and Nanguang Chen, \"Increasing fairness via combination with learning guarantees\", arXiv preprint arXiv:2301.10813, 2023. # Under Review. [https://arxiv.org/abs/2301.10813 \[arXiv\]]
+- Jun 2025: I will be attending [https://facctconference.org/2025/ ACM FAccT 2025] in Athens
+- Apr 2025: I will be attending [https://satml.org/ IEEE SatML 2025] in Copenhagen
+- Mar 2025: I will be attending [https://computersciencelaw.org/2025/ CS&Law 2025] and Junior Scholars Workshop in Munich
+- Aug 2024: I will be attending [https://conferences.au.dk/asslt/details Aarhus summer school on learning theory] in Aarhus
 
-=== Preprints
-
-. Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" /arXiv preprint arXiv:2505.11111,/ 2025. Under Review. 
-[https://arxiv.org/abs/2505.11111 \[arXiv\]][https://github.com/youlei202/FairSHAP \[code\]]
-. *Yijun Bian** and Lei You, \"Fairness research for machine learning should integrate societal considerations,\" 2025.
-. Alina Basharat, *Yijun Bian*, Ping Xu*, and Zhi Tian, \"Towards trustworthy federated learning,\" /arXiv preprint arXiv:2503.03684,/ 2025. 
-[https://arxiv.org/abs/2503.03684 \[arXiv\]]
-. Lei You\*, *Yijun Bian*, and Lele Cao, \"Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality,\" /arXiv preprint arXiv:2410.05419,/ 2024. # Under Review. 
-[https://arxiv.org/abs/2410.05419 \[arXiv\]][https://github.com/youlei202/Refining-Counterfactual-Explanations/tree/experiments \[code\]][https://github.com/understanding-ml/COLA \[software\]]  # software,package,release
-. *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes,\" /arXiv preprint arXiv:2408.06099,/ 2024. Under Review. 
-[https://arxiv.org/abs/2408.06099 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]]
-. *Yijun Bian*\#* and Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly,\" /arXiv preprint arXiv:2405.09251,/ 2024. # Under Review. 
-[https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]]
-. Jinghan Huang\#, Qiufeng Chen\#, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, and Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data,\" /arXiv preprint arXiv:2403.06687,/ 2024. Under Review. 
-[https://arxiv.org/abs/2403.06687 \[arXiv\]][https://github.com/JH-415/HL-HGAT \[code\]] # Under Review. 
-. *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. Under Review. 
-[https://arxiv.org/abs/2301.10813 \[arXiv\]]
-. Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey,\" /arXiv preprint arXiv:2206.08304,/ 2022. 
-[https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
-
-
-=== Non-archival posters
-
-. *Yijun Bian* and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" in /NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning (M3L),/ Dec 2024. 
-[https://openreview.net/forum?id=QHILhNkVUX \[paper\]][posters/2024_m3l_bounds.pdf \[poster\]]
-. *Yijun Bian*\#, Yujie Luo\#, and Ping Xu, \"Does machine bring in extra bias in learning? Approximating discrimination within models quickly,\" in /NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning (M3L),/ Dec 2024. 
-[https://openreview.net/forum?id=ywqVkVQZDj \[paper\]][posters/2024_m3l_fairmanf.pdf \[poster\]]
-
-=== Conference paper
-
-. Abhijith Sharma, *Yijun Bian*, Vatsal Nanda, Phil Munz, and Apurva Narayan, \"Vulnerability of CNNs against multi-patch attacks,\" in /Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23),/ pp. 23–32, Apr 2023. 
-[https://dl.acm.org/doi/abs/10.1145/3579988.3585054 \[paper\]][https://doi.org/10.1145/3579988.3585054 \[doi\]]
-
-=== Journal articles
-
-. Ming Chen, *Yijun Bian*, Nanguang Chen, and Anqi Qiu*, \"Orthogonal mixed-effects modeling for high-dimensional longitudinal data: An unsupervised learning approach,\" /IEEE Transactions on Medical Imaging,/ # accepted. 
-vol. 44, no. 1, pp. 207-220, Jan 2025. 
-[https://ieeexplore.ieee.org/abstract/document/10616022 \[paper\]][https://github.com/MChen808/UOMETM \[code\]][https://doi.org/10.1109/TMI.2024.3435855 \[doi\]]
-. *Yijun Bian*, Qingquan Song, Mengnan Du, Jun Yao, Huanhuan Chen*, and Xia Hu, \"Subarchitecture ensemble pruning in neural architecture search,\" /IEEE Transactions on Neural Networks and Learning Systems,/ vol. 33, no. 12, pp. 7928-7936, Dec 2022. 
-[https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]]
-. *Yijun Bian* and Huanhuan Chen*, \"When does diversity help generalization in classification ensembles?\" /IEEE Transactions on Cybernetics,/ vol. 52, no. 9, pp. 9059–9075, Sept 2022. 
-[https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]]
-. *Yijun Bian*, Yijun Wang, Yaqiang Yao, and Huanhuan Chen*, \"Ensemble pruning based on objection maximization with a general distributed framework,\" /IEEE Transactions on Neural Networks and Learning Systems,/ vol. 31, no. 9, pp. 3766–3774, Sept 2020. 
-[https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]]
-
-
-
-
-== Experiences
-
-=== Education
-
-- Ph.D. in Computer Science and Technology, University of Science and Technology of China, 2020
-- B.Sc. in Computational Mathematics, Northwest A&F University (NWAFU), 2014
-
-# === Experiences
-# - Research fellow @NUS, Mar 2023 to present
-# - Teaching assistant @USTC, Mar to Jul 2016
-# === Professional work
-# === Teaching & research
-
-
-=== Experiences
-
-- Postdoctoral research fellow @NUS, Mar 2023 to Jul 2024
-- Algorithm engineer @SIMIT, Dec 2020 to Mar 2023
-- Graduate research assistant @USTC, Sept 2014 to Nov 2020
-- Visiting research scholar @TAMU, Nov 2018 to Apr 2019
-- Teaching assistant @USTC, Mar 2016 to Jul 2016
-
-
-# === Supervision # Students
-# - Abdullahi Ali Dahir Jama, UCPH BSc thesis 2025
-# - Kristian Jelsted, UCPH BSc thesis 2025
-
-
-=== Invited presentations
-
-- \"Fairness evaluation in ML. Why would we care?\" Guest lecture @DTU, May 2025.
-- \"Study of FAIR ML models from a theoretical perspective\", [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar @DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
-- \"Increasing fairness via combination with learning guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2, Practice talk), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
-
-
-# Other talks
-# - \"Increasing fairness via combination with learning guarantees\", [https://di.ku.dk/english/research/machine-learning/ ML section meeting], Nov 2024. [diku_alternative.pdf \[slides\]]
-# - \"Study of fair ML models from a theoretical perspective\", [https://sites.google.com/diku.edu/delta DeLTA seminar], Nov 2024. [pre_dk_delta.pdf \[slides\]]
-# - \"Developing Fair ML models from theoretical aspects\", [https://conferences.au.dk/asslt/details Aarhus summer school on learning theory], Aug 2024. [pre_aarhus.pdf \[slides\]]
-# - \"Increasing fairness via combination with learning guarantees\", [https://www.let-all.com/fall23.html Fall 2023 LeT-All Mentorship Workshop], Oct 2023. [pre_letall.pdf \[slides\]]
-
-
-
-
-
-
-== Professional Activities
-
-=== Journal reviewer
-- Since Mar 2025, IEEE Transactions on Image Processing (TIP)
-- Since May 2024, Information Sciences
-- Since Jun 2023, Scientific Reports
-- Since May 2023, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-- Since Mar 2023, Journal of Supercomputing
-- Since Sept 2021, IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
-- Since Nov 2020, Neural Networks
-- Since Aug 2016, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-
-=== Open-source contributor
-- AdaNet (Google’s open-source project), merged [https://github.com/tensorflow/adanet/pull/133 pull request], Oct 2019
-- OpenNE, merged [https://github.com/thunlp/OpenNE/pull/81 pull request], Aug 2019
-- AutoKeras, merged pull requests [https://github.com/keras-team/autokeras/pull/656 a] and [https://github.com/keras-team/autokeras/pull/666 b] in the blocks branch, Jun 2019
-
-=== Released code of projects
-. [https://github.com/eustomaqua/ApproxBias ApproxBias], official released code for \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\" and \"Approximating discrimination within models when faced with several non-binary sensitive attributes\".
-. [https://github.com/eustomaqua/SAEP SAEP], 
-official released code for \"Subarchitecture ensemble pruning in neural architecture search\".
-. [https://github.com/eustomaqua/EPFD EPFD], 
-official released code for \"Ensemble pruning based on objection maximisation with a general distributed framework\".
-. [https://github.com/eustomaqua/PyEnsemble PyEnsemble], an open-source library for ensemble learning methods, diversity measures, and ensemble pruning methods.
-
-
-== Selected Honours & Awards
-
-- Awardee of Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship 2022  #, European Commission  #, Nov 2023
-- Seal of Excellence under the HORIZON Europe MSCA call 2022, European Commission, Apr 2023
-- GDC Technology Scholarship, USTC, Oct 2019
-- International Exchange Funding for Excellent Students, USTC, Apr 2018
-- First-class Academic Scholarship, USTC, Sept 2015
-- Outstanding Undergraduate Graduation Thesis (Design), NWAFU, Jun 2014
-- President Scholarship, NWAFU, Dec 2013
-- Merit Student, for three consecutive years, NWAFU, Dec 2011 to Dec 2013
-- First Prize Professional Scholarship, four times in a row, NWAFU, Mar 2011, Oct 2011 to Oct 2013
-# - Best Debater in the Freshman Cup Debate, NWAFU, Nov 2010
-
-
-# [index.html Back to top]
-# [cv.pdf A brief cv].
+# <!-- more -->
+# [sep_news.html Find out more].
