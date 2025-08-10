@@ -52,12 +52,13 @@
 === Invited presentations
 
 
-- \"Do existing fairness measures suffice? Assessing discrimination in algorithmic decision-making,\" [https://d3aconference.dk/machine-learning-theory-2/ D3A machine learning theory workshop] (Tutorial), Aug 2025.
+- \"Do existing fairness measures suffice? Assessing discrimination in algorithmic decision-making,\" [https://d3aconference.dk/machine-learning-theory-2/ D3A workshop on machine learning theory] (Tutorial), Aug 2025.
 - \"Fairness evaluation in ML. Why would we care?\" Guest lecture for 62533/62T22 "Applied Machine Learning and Big Data" @DTU (Lecturer: Dr. Lei You), May 2025.
 - \"Study of FAIR ML models from a theoretical perspective,\" [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar @DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
 - \"Increasing fairness via combination with learning guarantees,\" [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2, Practice talk), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
 
 
+# D3A machine learning theory workshop
 # [https://lifelonglearning.dtu.dk/en/engineering-technology-en/single-course/applied-machine-learning-and-big-data/ ]
 
 # - \"Increasing fairness via combination with learning guarantees\", [https://di.ku.dk/english/research/machine-learning/ ML section meeting], Nov 2024. [diku_alternative.pdf \[slides\]]
@@ -70,6 +71,7 @@
 - AAAI/ACM Conference on AI, Ethics, and Society (AIES) 2025
 
 === Journal reviewer
+- Since Aug 2025, IEEE Transactions on Artificial Intelligence (TAI)
 - Since Mar 2025, IEEE Transactions on Image Processing (TIP)
 - Since May 2024, Information Sciences
 - Since Jun 2023, Scientific Reports
