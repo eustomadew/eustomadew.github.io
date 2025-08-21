@@ -11,6 +11,8 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 === Preprints
 
+# . *Yijun Bian**, Lei You, and Yuya Sasaki, \"Do existing fairness measures suffice? Assessing discrimination in algorithmic decision-making,\" 2025. Under Review.
+. *Yijun Bian**, Lei You, Yuya Sasaki, Haruka Maeda, and Akira Igarashi, \"Algorithmic fairness: Not a purely technical but socio-technical property,\" 2025.
 . *Yijun Bian** and Lei You, \"Fairness research for machine learning should integrate societal considerations,\" /arXiv preprint arXiv:2506.12556,/ 2025. # Under Review. 
 [https://arxiv.org/abs/2506.12556 \[arXiv\]]
 . Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" /arXiv preprint arXiv:2505.11111,/ 2025. Under Review. 
@@ -69,7 +71,8 @@ vol. 44, no. 1, pp. 207--220, Jan 2025. # accepted.
 
 
 == Released code of projects
-- [https://github.com/eustomaqua/PyFairness PyFairness], an open-source library for fairness measures and ensemble methods, to facilitate the reproduction of our work.
+- [https://github.com/eustomaqua/PyFairness PyFairness], an open-source library for fairness measures and ensemble methods, for reproducing our work.
+# for the reproduction of. to reproduce. used, to facilitate the reproduction of our work.
 - [https://github.com/eustomaqua/ApproxBias ApproxBias], official released code for \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\" and \"Approximating discrimination within models when faced with several non-binary sensitive attributes\".
 - [https://github.com/eustomaqua/SAEP SAEP], 
 official released code for \"Subarchitecture ensemble pruning in neural architecture search\".
