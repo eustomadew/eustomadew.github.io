@@ -14,6 +14,7 @@
 === Experiences
 
 # - Marie Skłodowska-Curie postdoctoral fellow (Postdoc) @KU, Aug 2024 to present
+# - Postdoctoral research fellow @NUS, Mar 2023 to Aug 2024
 - Postdoctoral research fellow @NUS, Mar 2023 to Jul 2024
 - Algorithm engineer @SIMIT, Dec 2020 to Mar 2023
 - Visiting research scholar @TAMU, Nov 2018 to Apr 2019
@@ -68,7 +69,7 @@
 === Invited presentations
 
 
-# - \"Do existing fairness measures suffice? Assessing discrimination in algorithmic decision-making,\" [https://d3aconference.dk/machine-learning-theory-2/ D3A workshop on machine learning theory] (Tutorial), Aug 2025.
+- \"Do existing fairness measures suffice? Assessing discrimination in algorithmic decision-making,\" [https://d3aconference.dk/d3a-3-0/ D3A] workshop on [https://d3aconference.dk/machine-learning-theory-2/ machine learning theory] (Tutorial, i.e. long talk), Aug 2025. [slides/pre25_d3a_mlt.pdf \[slides\]]
 - \"Fairness evaluation in ML. Why would we care?\" Guest lecture for 62533/62T22 "Applied Machine Learning and Big Data" @DTU (Lecturer: Dr. Lei You), May 2025.
 - \"Study of FAIR ML models from a theoretical perspective,\" [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar @DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
 - \"Increasing fairness via combination with learning guarantees,\" [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2, Practice talk), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
@@ -89,16 +90,15 @@
 === Journal reviewer
 - Since Aug 2025, IEEE Transactions on Artificial Intelligence (TAI)
 - Since Mar 2025, IEEE Transactions on Image Processing (TIP)
+- Since May 2024, Information Sciences
 - Since Jan 2024, IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- Since Jun 2023, Scientific Reports
 - Since May 2023, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- Since Mar 2023, Journal of Supercomputing
 - Since Sept 2021, IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+- Since Nov 2020, Neural Networks
 - Since Aug 2016, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
-
-- Since May 2024, Information Sciences
-- Since Jun 2023, Scientific Reports
-- Since Mar 2023, Journal of Supercomputing
-- Since Nov 2020, Neural Networks
 
 === Open-source contributor
 - FairGBM, provided [https://github.com/feedzai/fairgbm/issues/45\#issuecomment-1729702512 solution] for non-Ubuntu environments, Sept 2023
