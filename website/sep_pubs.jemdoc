@@ -71,6 +71,7 @@ vol. 44, no. 1, pp. 207--220, Jan 2025. # accepted.
 
 
 == Released code of projects
+- [https://github.com/eustomaqua/AssessBias AssessBias], official code for \"Algorithmic fairness: Not a purely technical but socio-technical property.\"
 - [https://github.com/eustomaqua/PyFairness PyFairness], an open-source library for fairness measures and ensemble methods, for reproducing our work.
 # for the reproduction of. to reproduce. used, to facilitate the reproduction of our work.
 - [https://github.com/eustomaqua/ApproxBias ApproxBias], official released code for \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\" and \"Approximating discrimination within models when faced with several non-binary sensitive attributes\".
