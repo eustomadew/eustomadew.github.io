@@ -23,11 +23,11 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 [https://arxiv.org/abs/2503.03684 \[arXiv\]]
 . Lei You\*, *Yijun Bian*, and Lele Cao, \"Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality,\" /arXiv preprint arXiv:2410.05419,/ 2024. Under Review.
 [https://arxiv.org/abs/2410.05419 \[arXiv\]][https://github.com/youlei202/Refining-Counterfactual-Explanations/tree/experiments \[code\]][https://github.com/understanding-ml/COLA \[software\]]  # software,package,release
-. *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes,\" /arXiv preprint arXiv:2408.06099,/ 2024. Under Review. 
+. *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes,\" /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review. 
 [https://arxiv.org/abs/2408.06099 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]]
 . *Yijun Bian*\#* and Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly,\" /arXiv preprint arXiv:2405.09251,/ 2024. Under Review. 
 [https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]]
-. *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. Under Review. 
+. *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. # Under Review. 
 [https://arxiv.org/abs/2301.10813 \[arXiv\]]
 . Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey,\" /arXiv preprint arXiv:2206.08304,/ 2022. 
 [https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
@@ -74,7 +74,8 @@ vol. 44, no. 1, pp. 207--220, Jan 2025. # accepted.
 
 
 
-== Released code of projects
+# == Released code of projects
+== Open-source code & official implementation for research papers 
 - [https://github.com/eustomaqua/AssessBias AssessBias], official code for \"Algorithmic fairness: Not a purely technical but socio-technical property.\"
 - [https://github.com/eustomaqua/PyFairness PyFairness], an open-source library for fairness measures and ensemble methods, for reproducing our work.
 # for the reproduction of. to reproduce. used, to facilitate the reproduction of our work.
