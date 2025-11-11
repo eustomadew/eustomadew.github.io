@@ -35,6 +35,8 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 === Non-archival posters
 
+- *Yijun Bian*\#, Lei You, and Yuya Sasaki, \"Do Existing Fairness Measures Suffice? Assessing Discrimination in Algorithmic Decision-Making,\" in /AAAI 2026 Workshop on Deployable AI (DAI)/, accepted.
+[https://openreview.net/forum?id=iJIvU30RiU \[paper\]]
 - Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" in /Women in Machine Learning Workshop (WiML) at NeurIPS 2025,/ accepted.
 [https://openreview.net/forum?id=GIZQpx7RyK \[abstract\]][posters/2025_FairSHAP_poster.pdf \[poster\]]  # extended abstract
 - *Yijun Bian* and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" in /NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning (M3L),/ Dec 2024. 
