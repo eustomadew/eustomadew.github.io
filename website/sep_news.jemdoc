@@ -68,7 +68,8 @@
 
 === Invited presentations
 
-- \"\", TOC4Fairness seminar, Nov 2025.
+- \"Why we need new fairness metrics and how to use them,\" OR seminar at CMU Tepper, Dec 2025. [slides/pre25_tepper.pdf \[slides\]]
+- \"Why we need new fairness metrics and how to use them,\" [https://toc4fairness.org/toc4fairness-seminar-yijun-bian/ TOC4Fairness seminar], Nov 2025.
 - Breaking the Wall of \"Invisible inequality in machine learning research,\" [https://www1.bio.ku.dk/english/calendar/2025/falling-walls-lab-denmark/ Falling Walls Lab Denmark], Sept 2025. [slides/lab_non-daad-presentation-Yijun.pdf \[slides\]]
 - \"Do existing fairness measures suffice? Assessing discrimination in algorithmic decision-making,\" [https://d3aconference.dk/d3a-3-0/ D3A] workshop on [https://d3aconference.dk/machine-learning-theory-2/ machine learning theory] (Long talk), Aug 2025. [slides/pre25_d3a_mlt.pdf \[slides\]]  # Tutorial, i.e.
 - \"Fairness evaluation in ML. Why would we care?\" Guest lecture for 62533/62T22 "Applied Machine Learning and Big Data" @DTU (Lecturer: Dr. Lei You), May 2025.

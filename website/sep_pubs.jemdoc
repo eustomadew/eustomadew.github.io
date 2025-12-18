@@ -15,7 +15,7 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 # . *Yijun Bian** and Lei You, \"Fairness research for machine learning should integrate societal considerations,\" /arXiv preprint arXiv:2506.12556,/ 2025. # Under Review.
 
 
-. *Yijun Bian**, Lei You, Yuya Sasaki, Haruka Maeda, and Akira Igarashi, \"Algorithmic fairness: Not a purely technical but socio-technical property,\" /arXiv preprint arXiv:2506.12556,/ 2025. Under Review.
+. *Yijun Bian**, Lei You, Yuya Sasaki, Haruka Maeda, and Akira Igarashi, \"Algorithmic fairness: Not a purely technical but socio-technical property,\" /arXiv preprint arXiv:2506.12556,/ 2025. # Under Review.
 [https://arxiv.org/abs/2506.12556 \[arXiv\]][https://github.com/eustomaqua/AssessBias \[code\]]
 . Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" /arXiv preprint arXiv:2505.11111,/ 2025. Under Review. 
 [https://arxiv.org/abs/2505.11111 \[arXiv\]][https://github.com/youlei202/FairSHAP \[code\]]
@@ -24,11 +24,12 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 . Lei You\*, *Yijun Bian*, and Lele Cao, \"Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality,\" /arXiv preprint arXiv:2410.05419,/ 2024. Under Review.
 [https://arxiv.org/abs/2410.05419 \[arXiv\]][https://github.com/youlei202/Refining-Counterfactual-Explanations/tree/experiments \[code\]][https://github.com/understanding-ml/COLA \[software\]][https://cola-docs.readthedocs.io \[doc\]]  # software,package,release
 . *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes,\" /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review. 
-[https://arxiv.org/abs/2408.06099 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]]
+[https://arxiv.org/abs/2408.06099 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
 . *Yijun Bian*\#* and Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly,\" /arXiv preprint arXiv:2405.09251,/ 2024. # Under Review. 
-[https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]]
+[https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
 . *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. # Under Review. 
 [https://arxiv.org/abs/2301.10813 \[arXiv\]]
+# [https://fairml.readthedocs.io/en/latest/ \[doc\]]
 . Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey,\" /arXiv preprint arXiv:2206.08304,/ 2022. 
 [https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
 
@@ -36,8 +37,8 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 === Non-archival posters
 
 - *Yijun Bian*\#, Lei You, and Yuya Sasaki, \"Do Existing Fairness Measures Suffice? Assessing Discrimination in Algorithmic Decision-Making,\" in /Deployable AI Workshop (DAI) at AAAI 2026/, accepted.
-[https://openreview.net/forum?id=iJIvU30RiU \[paper\]]
-- Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" in /Women in Machine Learning Workshop (WiML) at NeurIPS 2025,/ accepted.
+[https://openreview.net/forum?id=iJIvU30RiU \[paper\]][posters/2026_dai_poster.pdf \[poster\]]
+- Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" in /Women in Machine Learning Workshop (WiML) at NeurIPS 2025,/ Dec 2025.
 [https://openreview.net/forum?id=GIZQpx7RyK \[abstract\]][posters/2025_FairSHAP_poster.pdf \[poster\]]  # extended abstract
 - *Yijun Bian* and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" in /NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning (M3L),/ Dec 2024. 
 [https://openreview.net/forum?id=QHILhNkVUX \[paper\]][posters/2024_m3l_bounds.pdf \[poster\]]
