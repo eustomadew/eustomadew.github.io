@@ -1,0 +1,56 @@
+# jemdoc: menu{sep_MENU}{sep_acty.html}
+# == Resources
+== Activities
+
+
+
+=== Open-source contributor
+- FairGBM, provided [https://github.com/feedzai/fairgbm/issues/45\#issuecomment-1729702512 solution] for non-Ubuntu environments, Sept 2023
+- AdaNet (Google’s open-source project), merged [https://github.com/tensorflow/adanet/pull/133 pull request], Oct 2019
+- OpenNE, merged [https://github.com/thunlp/OpenNE/pull/81 pull request], Aug 2019
+- AutoKeras, merged pull requests [https://github.com/keras-team/autokeras/pull/656 a] and [https://github.com/keras-team/autokeras/pull/666 b] in the blocks branch, Jun 2019
+
+
+
+=== Teaching experience
+# - \"Fairness evaluation in ML. Why would we care?\" Guest lecture in 62533/62T22 "Applied Machine Learning and Big Data" (DTU, lecturer Dr. Lei You), May 2025.
+
+- Guest lecture in the DTU course 62533/62T22 "Applied Machine Learning and Big Data" (lecturer Dr. Lei You), titled \"Fairness evaluation in ML. Why would we care?\", May 2025.
+- Teaching assistant for the course \"Mathematical Analysis (B2)\" at USTC, Mar 2016 to Jul 2016.
+
+
+
+=== Invited presentations
+
+- \"Why we need new fairness metrics and how to use them,\" OR seminar at CMU Tepper, Dec 2025. [slides/pre25_tepper.pdf \[slides\]]
+- \"Why we need new fairness metrics and how to use them,\" [https://toc4fairness.org/toc4fairness-seminar-yijun-bian/ TOC4Fairness seminar], Nov 2025.
+- Breaking the Wall of \"Invisible inequality in machine learning research,\" [https://www1.bio.ku.dk/english/calendar/2025/falling-walls-lab-denmark/ Falling Walls Lab Denmark], Sept 2025. [slides/lab_non-daad-presentation-Yijun.pdf \[slides\]]
+- \"Do existing fairness measures suffice? Assessing discrimination in algorithmic decision-making,\" [https://d3aconference.dk/d3a-3-0/ D3A] workshop on [https://d3aconference.dk/machine-learning-theory-2/ machine learning theory] (Long talk), Aug 2025. [slides/pre25_d3a_mlt.pdf \[slides\]]  # Tutorial, i.e.
+- \"Study of FAIR ML models from a theoretical perspective,\" [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar at DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
+- \"Sub-architecture ensemble pruning in neural architecture search\", [https://github.com/saintslab/SustainableML SustainML reading group], Nov 2024.
+- \"Increasing fairness via combination with learning guarantees,\" [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2, Practice talk), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
+
+
+# OR seminar at CMU Tepper, Guest lecture for 62533/62T22 @DTU
+# D3A machine learning theory workshop
+# [https://lifelonglearning.dtu.dk/en/engineering-technology-en/single-course/applied-machine-learning-and-big-data/ ]
+# Sustainable ML reading group, 20/11/2024 Sept
+
+# - \"Increasing fairness via combination with learning guarantees\", [https://di.ku.dk/english/research/machine-learning/ ML section meeting], Nov 2024. [diku_alternative.pdf \[slides\]]
+# - \"Study of fair ML models from a theoretical perspective\", [https://sites.google.com/diku.edu/delta DeLTA seminar], Nov 2024. [pre_dk_delta.pdf \[slides\]]
+# - \"Developing Fair ML models from theoretical aspects\", [https://conferences.au.dk/asslt/details Aarhus summer school on learning theory], Aug 2024. [pre_aarhus.pdf \[slides\]]
+
+
+
+
+=== Peer-reviewed non-archival posters
+
+- *Yijun Bian*\#, Lei You, and Yuya Sasaki, \"Do Existing Fairness Measures Suffice? Assessing Discrimination in Algorithmic Decision-Making,\" in the /4th Deployable AI Workshop (DAI) at AAAI 2026/, Jan 2026.
+[https://openreview.net/forum?id=iJIvU30RiU \[paper\]][posters/2026_dai_poster.pdf \[poster\]]
+- Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" in the /20th Women in Machine Learning Workshop (WiML) at NeurIPS 2025,/ Dec 2025.
+[https://openreview.net/forum?id=GIZQpx7RyK \[abstract\]][posters/2025_FairSHAP_poster.pdf \[poster\]]  # extended abstract
+- *Yijun Bian* and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" in /NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning (M3L),/ Dec 2024. 
+[https://openreview.net/forum?id=QHILhNkVUX \[paper\]][posters/2024_m3l_bounds.pdf \[poster\]]
+- *Yijun Bian*\#, Yujie Luo\#, and Ping Xu, \"Does machine bring in extra bias in learning? Approximating discrimination within models quickly,\" in /NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning (M3L),/ Dec 2024. 
+[https://openreview.net/forum?id=ywqVkVQZDj \[paper\]][posters/2024_m3l_fairmanf.pdf \[poster\]]
+
