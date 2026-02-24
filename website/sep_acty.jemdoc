@@ -5,7 +5,7 @@
 
 
 === Open-source contributor
-- FairGBM, provided [https://github.com/feedzai/fairgbm/issues/45\#issuecomment-1729702512 solution] for non-Ubuntu environments, Sept 2023
+- FairGBM, provided [https://github.com/feedzai/fairgbm/issues/45\#issuecomment-1729702512 Dockerfile solution] for non-Ubuntu environments, Sept 2023
 - AdaNet (Google’s open-source project), merged [https://github.com/tensorflow/adanet/pull/133 pull request], Oct 2019
 - OpenNE, merged [https://github.com/thunlp/OpenNE/pull/81 pull request], Aug 2019
 - AutoKeras, merged pull requests [https://github.com/keras-team/autokeras/pull/656 a] and [https://github.com/keras-team/autokeras/pull/666 b] in the blocks branch, Jun 2019
@@ -47,7 +47,7 @@
 === Peer-reviewed non-archival posters
 
 - *Yijun Bian*\#, Lei You, and Yuya Sasaki, \"Do Existing Fairness Measures Suffice? Assessing Discrimination in Algorithmic Decision-Making,\" in the /4th Deployable AI Workshop (DAI) at AAAI 2026/, Jan 2026.
-[https://openreview.net/forum?id=iJIvU30RiU \[paper\]][posters/2026_dai_poster.pdf \[poster\]]
+[https://openreview.net/forum?id=iJIvU30RiU \[openreview\]][posters/2026_dai_poster.pdf \[poster\]]
 - Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" in the /20th Women in Machine Learning Workshop (WiML) at NeurIPS 2025,/ Dec 2025.
 [https://openreview.net/forum?id=GIZQpx7RyK \[abstract\]][posters/2025_FairSHAP_poster.pdf \[poster\]]  # extended abstract
 - *Yijun Bian* and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" in /NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning (M3L),/ Dec 2024. 
