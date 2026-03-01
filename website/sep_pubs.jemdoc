@@ -23,8 +23,7 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 . *Yijun Bian*\#* and Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly,\" /arXiv preprint arXiv:2405.09251,/ 2024. # Under Review. 
 [https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
 . *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. # Under Review. 
-[https://arxiv.org/abs/2301.10813 \[arXiv\]]
-# [https://fairml.readthedocs.io/en/latest/ \[doc\]]
+[https://arxiv.org/abs/2301.10813 \[arXiv\]][https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]]
 . Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey,\" /arXiv preprint arXiv:2206.08304,/ 2022. 
 [https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
 
@@ -67,6 +66,7 @@ vol. 44, no. 1, pp. 207--220, Jan 2025. # accepted.
 
 # == Released code of projects
 == Open-source code & official implementation for research papers 
+- [https://github.com/eustomaqua/FairML FairML], official code to reproduce the methodology funded by the [https://doi.org/10.3030/101106768 FairML] project.
 - [https://github.com/eustomaqua/AssessBias AssessBias], official code for \"Algorithmic fairness: Not a purely technical but socio-technical property.\"
 - [https://github.com/eustomaqua/PyFairness PyFairness], an open-source library for fairness measures and ensemble methods, for reproducing our work.
 # for the reproduction of. to reproduce. used, to facilitate the reproduction of our work.
