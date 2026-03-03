@@ -22,8 +22,6 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 [https://arxiv.org/abs/2408.06099 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
 . *Yijun Bian*\#* and Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly,\" /arXiv preprint arXiv:2405.09251,/ 2024. # Under Review. 
 [https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
-. *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. # Under Review. 
-[https://arxiv.org/abs/2301.10813 \[arXiv\]][https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]]
 . Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey,\" /arXiv preprint arXiv:2206.08304,/ 2022. 
 [https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
 
@@ -32,11 +30,14 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 # === Conference proceedings
 # arXiv preprint arXiv:2505.11111, 2025. Under Review. The Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics
 # software,package,release arXiv preprint arXiv:2410.05419, 2024 # Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality, Fourteenth
+# . *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. # Under Review. 
 
-. Lei You\*, *Yijun Bian*, and Lele Cao, \"Joint distribution-informed Shapley values for sparse counterfactual explanations,\" in the /40th International Conference on Learning Representations (ICLR 2026),/ accepted.
-[https://arxiv.org/abs/2410.05419 \[arXiv\]][https://github.com/youlei202/Refining-Counterfactual-Explanations/tree/experiments \[code\]][https://github.com/understanding-ml/COLA \[software\]][https://cola-docs.readthedocs.io \[doc\]][https://openreview.net/forum?id=3vIe5pNiUN \[paper\]]  # &noteId=QYKHrzRg33
+. *Yijun Bian**, \"Improving fairness with ensemble combination: Margin-dependent bounds,\" in /the 9th annual ACM Conference on Fairness, Accountability, and Transparency (FAccT 2026),/ accepted.
+[https://arxiv.org/abs/2301.10813 \[arXiv\]][https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]][https://openreview.net/forum?id=Zgu58Dg2Yb \[openreview\]]
+. Lei You\*, *Yijun Bian*, and Lele Cao, \"Joint distribution-informed Shapley values for sparse counterfactual explanations,\" in /the s40th International Conference on Learning Representations (ICLR 2026),/ accepted.
+[https://arxiv.org/abs/2410.05419 \[arXiv\]][https://github.com/youlei202/Refining-Counterfactual-Explanations/tree/experiments \[code\]][https://github.com/understanding-ml/COLA \[software\]][https://cola-docs.readthedocs.io \[doc\]][https://openreview.net/forum?id=3vIe5pNiUN \[openreview\]]  # &noteId=QYKHrzRg33
 . Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" in /the 29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026),/ accepted.
-[https://arxiv.org/abs/2505.11111 \[arXiv\]][https://github.com/youlei202/FairSHAP \[code\]][https://openreview.net/forum?id=Ns2v9TPSMc \[paper\]]
+[https://arxiv.org/abs/2505.11111 \[arXiv\]][https://github.com/youlei202/FairSHAP \[code\]][https://openreview.net/forum?id=Ns2v9TPSMc \[openreview\]]
 . Abhijith Sharma, *Yijun Bian*, Vatsal Nanda, Phil Munz, and Apurva Narayan, \"Vulnerability of CNNs against multi-patch attacks,\" in /Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23),/ pp. 23–32, Apr 2023. 
 [https://dl.acm.org/doi/abs/10.1145/3579988.3585054 \[paper\]][https://doi.org/10.1145/3579988.3585054 \[doi\]]
 
