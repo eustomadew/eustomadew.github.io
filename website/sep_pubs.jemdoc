@@ -33,8 +33,9 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 # . *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. # Under Review. 
 
 . *Yijun Bian**, \"Improving fairness with ensemble combination: Margin-dependent bounds,\" in /the 9th annual ACM Conference on Fairness, Accountability, and Transparency (FAccT 2026),/ accepted.
-[https://arxiv.org/abs/2301.10813 \[arXiv\]][https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]][https://openreview.net/forum?id=Zgu58Dg2Yb \[openreview\]]
-. Lei You\*, *Yijun Bian*, and Lele Cao, \"Joint distribution-informed Shapley values for sparse counterfactual explanations,\" in /the s40th International Conference on Learning Representations (ICLR 2026),/ accepted.
+# [https://arxiv.org/abs/2301.10813 \[arXiv\]]
+[https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]][https://openreview.net/forum?id=Zgu58Dg2Yb \[openreview\]]
+. Lei You\*, *Yijun Bian*, and Lele Cao, \"Joint distribution-informed Shapley values for sparse counterfactual explanations,\" in /the 40th International Conference on Learning Representations (ICLR 2026),/ accepted.
 [https://arxiv.org/abs/2410.05419 \[arXiv\]][https://github.com/youlei202/Refining-Counterfactual-Explanations/tree/experiments \[code\]][https://github.com/understanding-ml/COLA \[software\]][https://cola-docs.readthedocs.io \[doc\]][https://openreview.net/forum?id=3vIe5pNiUN \[openreview\]]  # &noteId=QYKHrzRg33
 . Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" in /the 29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026),/ accepted.
 [https://arxiv.org/abs/2505.11111 \[arXiv\]][https://github.com/youlei202/FairSHAP \[code\]][https://openreview.net/forum?id=Ns2v9TPSMc \[openreview\]]
