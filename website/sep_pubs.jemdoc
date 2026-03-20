@@ -31,6 +31,7 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 # arXiv preprint arXiv:2505.11111, 2025. Under Review. The Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics
 # software,package,release arXiv preprint arXiv:2410.05419, 2024 # Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality, Fourteenth
 # . *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. # Under Review. 
+# to appear
 
 . *Yijun Bian**, \"Improving fairness with ensemble combination: Margin-dependent bounds,\" in /the 9th annual ACM Conference on Fairness, Accountability, and Transparency (FAccT 2026),/ accepted.
 [https://arxiv.org/abs/2301.10813 \[arXiv\]][https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]][https://openreview.net/forum?id=Zgu58Dg2Yb \[openreview\]]
@@ -48,9 +49,10 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 #
 # . Jinghan Huang\#, Qiufeng Chen\#, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, and Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data,\" /arXiv preprint arXiv:2403.06687,/ 2024. # Under Review.
 . Jinghan Huang\#, Qiufeng Chen\#, Pengli Zhu, *Yijun Bian*, Nanguang Chen, Moo K. Chung, and Anqi Qiu*, \"HL-HGAT: Heterogeneous graph attention network via Hodge-Laplacian operator,\" /IEEE Transactions on Pattern Analysis and Machine Intelligence,/ accepted, 2025.
+# vol. 47, no. 12, pp. 11022--11039, Dec 2025.
 [https://arxiv.org/abs/2403.06687 \[arXiv\]][https://github.com/JH-415/HL-HGAT \[code\]][https://ieeexplore.ieee.org/document/11106311 \[paper\]][https://doi.org/10.1109/TPAMI.2025.3594226 \[doi\]]
 . Ming Chen, *Yijun Bian*, Nanguang Chen, and Anqi Qiu*, \"Orthogonal mixed-effects modeling for high-dimensional longitudinal data: An unsupervised learning approach,\" /IEEE Transactions on Medical Imaging,/ 
-vol. 44, no. 1, pp. 207--220, Jan 2025. # accepted.
+vol. 44, no. 1, pp. 207--220, Jan 2025.  # accepted.
 [https://ieeexplore.ieee.org/abstract/document/10616022 \[paper\]][https://github.com/MChen808/UOMETM \[code\]][https://doi.org/10.1109/TMI.2024.3435855 \[doi\]]
 #
 #
