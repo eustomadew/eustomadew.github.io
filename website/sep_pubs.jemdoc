@@ -12,16 +12,19 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 # . *Yijun Bian**, Lei You, and Yuya Sasaki, \"Do existing fairness measures suffice? Assessing discrimination in algorithmic decision-making,\" 2025. Under Review.
 # . *Yijun Bian** and Lei You, \"Fairness research for machine learning should integrate societal considerations,\" /arXiv preprint arXiv:2506.12556,/ 2025. # Under Review.
+# . *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes,\" /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review.
+# . *Yijun Bian**, Lei You, Yuya Sasaki, Haruka Maeda, and Akira Igarashi, \"Algorithmic fairness: Not a purely technical but socio-technical property,\" /arXiv preprint arXiv:2506.12556,/ 2025.
 
 
-. *Yijun Bian**, Lei You, Yuya Sasaki, Haruka Maeda, and Akira Igarashi, \"Algorithmic fairness: Not a purely technical but socio-technical property,\" /arXiv preprint arXiv:2506.12556,/ 2025. # Under Review.
+
+. *Yijun Bian**, Lei You, Yuya Sasaki, Haruka Maeda, and Akira Igarashi, \"Revisiting some misconceptions and limitations in algorithmic fairness,\" /arXiv preprint arXiv:2506.12556,/ 2025. Under Review.
 [https://arxiv.org/abs/2506.12556 \[arXiv\]][https://github.com/eustomaqua/AssessBias \[code\]]
+. *Yijun Bian*\* and Yujie Luo, \"Fast discrimination assessment for multiple non-binary sensitive attributes,\" /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review. # multi-valued
+[https://arxiv.org/abs/2408.06099 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
+. *Yijun Bian*\#* and Yujie Luo\#, \"Measuring model-induced discrimination via efficient fairness approximation,\" /arXiv preprint arXiv:2405.09251,/ 2024. Under Review. # Does machine bring in extra bias in learning? Approximating fairness in models promptly
+[https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
 . Alina Basharat, *Yijun Bian*, Ping Xu*, and Zhi Tian, \"Towards trustworthy federated learning,\" /arXiv preprint arXiv:2503.03684,/ 2025. 
 [https://arxiv.org/abs/2503.03684 \[arXiv\]]
-. *Yijun Bian*\#\*, Yujie Luo\#\*, and Ping Xu, \"Approximating discrimination within models when faced with several non-binary sensitive attributes,\" /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review. 
-[https://arxiv.org/abs/2408.06099 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
-. *Yijun Bian*\#* and Yujie Luo\#, \"Does machine bring in extra bias in learning? Approximating fairness in models promptly,\" /arXiv preprint arXiv:2405.09251,/ 2024. # Under Review. 
-[https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
 . Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey,\" /arXiv preprint arXiv:2206.08304,/ 2022. 
 [https://arxiv.org/abs/2206.08304 \[arXiv\]][https://www.techrxiv.org/articles/preprint/Adversarial_Patch_Attacks_and_Defences_in_Vision-Based_Tasks_A_Survey/20085902 \[TechRxiv\]]
 
@@ -53,16 +56,16 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 [https://arxiv.org/abs/2403.06687 \[arXiv\]][https://github.com/JH-415/HL-HGAT \[code\]][https://ieeexplore.ieee.org/document/11106311 \[paper\]][https://doi.org/10.1109/TPAMI.2025.3594226 \[doi\]]
 . Ming Chen, *Yijun Bian*, Nanguang Chen, and Anqi Qiu*, \"Orthogonal mixed-effects modeling for high-dimensional longitudinal data: An unsupervised learning approach,\" /IEEE Transactions on Medical Imaging,/ 
 vol. 44, no. 1, pp. 207--220, Jan 2025.  # accepted.
-[https://ieeexplore.ieee.org/abstract/document/10616022 \[paper\]][https://github.com/MChen808/UOMETM \[code\]][https://doi.org/10.1109/TMI.2024.3435855 \[doi\]]
+[https://ieeexplore.ieee.org/abstract/document/10616022 \[paper\]][https://github.com/MChen808/UOMETM \[code\]][https://doi.org/10.1109/TMI.2024.3435855 \[doi\]][pdf/10616022.pdf \[PDF\]]
 #
 #
 # (TCYB)
 . *Yijun Bian*, Qingquan Song, Mengnan Du, Jun Yao, Huanhuan Chen*, and Xia Hu, \"Subarchitecture ensemble pruning in neural architecture search,\" /IEEE Transactions on Neural Networks and Learning Systems,/ vol. 33, no. 12, pp. 7928--7936, Dec 2022. 
-[https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]]
+[https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]][pdf/9460115.pdf \[PDF\]]
 . *Yijun Bian* and Huanhuan Chen*, \"When does diversity help generalization in classification ensembles?\" /IEEE Transactions on Cybernetics,/ vol. 52, no. 9, pp. 9059–9075, Sept 2022. 
-[https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]]
+[https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]][pdf/9364928.pdf \[PDF\]]
 . *Yijun Bian*, Yijun Wang, Yaqiang Yao, and Huanhuan Chen*, \"Ensemble pruning based on objection maximization with a general distributed framework,\" /IEEE Transactions on Neural Networks and Learning Systems,/ vol. 31, no. 9, pp. 3766–3774, Sept 2020. 
-[https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]]
+[https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]][pdf/8891828.pdf \[PDF\]]
 
 
 
