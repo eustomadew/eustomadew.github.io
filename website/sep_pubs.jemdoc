@@ -19,9 +19,10 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 . *Yijun Bian**, Lei You, Yuya Sasaki, Haruka Maeda, and Akira Igarashi, \"Revisiting some misconceptions and limitations in algorithmic fairness,\" /arXiv preprint arXiv:2506.12556,/ 2025. Under Review.
 [https://arxiv.org/abs/2506.12556 \[arXiv\]][https://github.com/eustomaqua/AssessBias \[code\]]
-. *Yijun Bian*\* and Yujie Luo, \"Fast discrimination assessment for multiple non-binary sensitive attributes,\" /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review. # multi-valued
-[https://arxiv.org/abs/2408.06099 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
-. *Yijun Bian*\#* and Yujie Luo\#, \"Measuring model-induced discrimination via efficient fairness approximation,\" /arXiv preprint arXiv:2405.09251,/ 2024. Under Review. # Does machine bring in extra bias in learning? Approximating fairness in models promptly
+. *Yijun Bian*\* and Yujie Luo, \"Fast discrimination assessment for multiple non-binary sensitive attributes,\" # /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review. # multi-valued
+# [https://arxiv.org/abs/2408.06099 \[arXiv\]]
+[https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
+. *Yijun Bian*\#* and Yujie Luo\#, \"Measuring model-induced discrimination via efficient fairness approximation,\" /arXiv preprint arXiv:2405.09251,/ 2024. Under Review.  # Does machine bring in extra bias in learning? Approximating fairness in models promptly
 [https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
 . Alina Basharat, *Yijun Bian*, Ping Xu*, and Zhi Tian, \"Towards trustworthy federated learning,\" /arXiv preprint arXiv:2503.03684,/ 2025. 
 [https://arxiv.org/abs/2503.03684 \[arXiv\]]
@@ -36,11 +37,11 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 # . *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. # Under Review. 
 # to appear
 
-. *Yijun Bian**, \"Improving fairness with ensemble combination: Margin-dependent bounds,\" in /the 9th annual ACM Conference on Fairness, Accountability, and Transparency (FAccT 2026),/ June 25--28, 2026, Montreal, QC, Canada. # accepted.
+. *Yijun Bian**, \"Improving fairness with ensemble combination: Margin-dependent bounds,\" in /the 9th annual ACM Conference on Fairness, Accountability, and Transparency (FAccT 2026),/ accepted. # June 25--28, 2026, Montreal, QC, Canada.
 [https://arxiv.org/abs/2301.10813 \[arXiv\]][https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]][https://openreview.net/forum?id=Zgu58Dg2Yb \[openreview\]][https://zenodo.org/records/19425886 \[data\]][https://doi.org/10.1145/3805689.3806539 \[doi\]]
 . Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" in /the 29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026),/ May 2--5, 2026, Tangier, Morocco.
 [https://arxiv.org/abs/2505.11111 \[arXiv\]][https://github.com/youlei202/FairSHAP \[code\]][https://openreview.net/forum?id=Ns2v9TPSMc \[openreview\]][https://cspaper.org/openprint/20260412.0001v1 \[openprint\]][posters/2026_FairSHAP_poster.pdf \[poster\]]
-. Lei You\*, *Yijun Bian*, and Lele Cao, \"Joint distribution-informed Shapley values for sparse counterfactual explanations,\" in /the 40th International Conference on Learning Representations (ICLR 2026),/ April 23--27, 2026, Rio de Janeiro, Brazil.
+. Lei You\*, *Yijun Bian*, and Lele Cao, \"Joint distribution-informed Shapley values for sparse counterfactual explanations,\" in /the 40th International Conference on Learning Representations (ICLR 2026),/ April 23--27, 2026, Rio de Janeiro, RJ, Brazil.
 [https://arxiv.org/abs/2410.05419 \[arXiv\]][https://github.com/youlei202/Refining-Counterfactual-Explanations/tree/experiments \[code\]][https://github.com/understanding-ml/COLA \[software\]][https://cola-docs.readthedocs.io \[doc\]][https://openreview.net/forum?id=3vIe5pNiUN \[openreview\]]  # &noteId=QYKHrzRg33
 . Abhijith Sharma, *Yijun Bian*, Vatsal Nanda, Phil Munz, and Apurva Narayan, \"Vulnerability of CNNs against multi-patch attacks,\" in /Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS'23),/ pp. 23–32, Apr 2023. 
 [https://dl.acm.org/doi/abs/10.1145/3579988.3585054 \[paper\]][https://doi.org/10.1145/3579988.3585054 \[doi\]]
@@ -51,32 +52,32 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 #
 #
 # . Jinghan Huang\#, Qiufeng Chen\#, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, and Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data,\" /arXiv preprint arXiv:2403.06687,/ 2024. # Under Review.
-. Jinghan Huang\#, Qiufeng Chen\#, Pengli Zhu, *Yijun Bian*, Nanguang Chen, Moo K. Chung, and Anqi Qiu*, \"HL-HGAT: Heterogeneous graph attention network via Hodge-Laplacian operator,\" /IEEE Transactions on Pattern Analysis and Machine Intelligence,/ accepted, 2025.
-# vol. 47, no. 12, pp. 11022--11039, Dec 2025.
+. Jinghan Huang\#, Qiufeng Chen\#, Pengli Zhu, *Yijun Bian*, Nanguang Chen, Moo K. Chung, and Anqi Qiu*, \"HL-HGAT: Heterogeneous graph attention network via Hodge-Laplacian operator,\" /IEEE Transactions on Pattern Analysis and Machine Intelligence,/ # accepted, 2025.
+vol. 47, no. 12, pp. 11022--11039, Dec 2025.
 [https://arxiv.org/abs/2403.06687 \[arXiv\]][https://github.com/JH-415/HL-HGAT \[code\]][https://ieeexplore.ieee.org/document/11106311 \[paper\]][https://doi.org/10.1109/TPAMI.2025.3594226 \[doi\]]
 . Ming Chen, *Yijun Bian*, Nanguang Chen, and Anqi Qiu*, \"Orthogonal mixed-effects modeling for high-dimensional longitudinal data: An unsupervised learning approach,\" /IEEE Transactions on Medical Imaging,/ 
 vol. 44, no. 1, pp. 207--220, Jan 2025.  # accepted.
-[https://ieeexplore.ieee.org/abstract/document/10616022 \[paper\]][https://github.com/MChen808/UOMETM \[code\]][https://doi.org/10.1109/TMI.2024.3435855 \[doi\]][pdf/10616022.pdf \[PDF\]]
+[https://ieeexplore.ieee.org/abstract/document/10616022 \[paper\]][https://github.com/MChen808/UOMETM \[code\]][https://doi.org/10.1109/TMI.2024.3435855 \[doi\]][pdf/10616022.pdf \[pdf\]]
 #
 #
-# (TCYB)
+# (TCYB)  [PDF]
 . *Yijun Bian*, Qingquan Song, Mengnan Du, Jun Yao, Huanhuan Chen*, and Xia Hu, \"Subarchitecture ensemble pruning in neural architecture search,\" /IEEE Transactions on Neural Networks and Learning Systems,/ vol. 33, no. 12, pp. 7928--7936, Dec 2022. 
-[https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]][pdf/9460115.pdf \[PDF\]]
+[https://arxiv.org/abs/1910.00370 \[arXiv\]][https://ieeexplore.ieee.org/document/9460115 \[paper\]][https://github.com/eustomaqua/SAEP \[code\]][https://doi.org/10.1109/TNNLS.2021.3085299 \[doi\]][pdf/9460115.pdf \[pdf\]]
 . *Yijun Bian* and Huanhuan Chen*, \"When does diversity help generalization in classification ensembles?\" /IEEE Transactions on Cybernetics,/ vol. 52, no. 9, pp. 9059–9075, Sept 2022. 
-[https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]][pdf/9364928.pdf \[PDF\]]
+[https://arxiv.org/abs/1910.13631 \[arXiv\]][https://ieeexplore.ieee.org/document/9364928 \[paper\]][https://doi.org/10.1109/TCYB.2021.3053165 \[doi\]][pdf/9364928.pdf \[pdf\]]
 . *Yijun Bian*, Yijun Wang, Yaqiang Yao, and Huanhuan Chen*, \"Ensemble pruning based on objection maximization with a general distributed framework,\" /IEEE Transactions on Neural Networks and Learning Systems,/ vol. 31, no. 9, pp. 3766–3774, Sept 2020. 
-[https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]][pdf/8891828.pdf \[PDF\]]
+[https://arxiv.org/abs/1806.04899 \[arXiv\]][https://ieeexplore.ieee.org/document/8891828 \[paper\]][https://github.com/eustomaqua/EPFD \[code\]][https://doi.org/10.1109/TNNLS.2019.2945116 \[doi\]][pdf/8891828.pdf \[pdf\]]
 
 
 
 
+# for the reproduction of. to reproduce. used, to facilitate the reproduction of our work.
 # == Released code of projects
-== Open-source code & official implementation for research papers 
+== Open-source code & official implementation for research papers
 - [https://github.com/eustomaqua/FairML FairML], official code to reproduce the methodology funded by the [https://doi.org/10.3030/101106768 FairML] project.
 - [https://github.com/eustomaqua/AssessBias AssessBias], official code for \"Algorithmic fairness: Not a purely technical but socio-technical property.\"
 - [https://github.com/eustomaqua/PyFairness PyFairness], an open-source library for fairness measures and ensemble methods, for reproducing our work.
-# for the reproduction of. to reproduce. used, to facilitate the reproduction of our work.
-- [https://github.com/eustomaqua/ApproxBias ApproxBias], official released code for \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\" and \"Approximating discrimination within models when faced with several non-binary sensitive attributes\".
+- [https://github.com/eustomaqua/ApproxBias ApproxBias], official released code for the efficient discrimination assessments from a manifold perspective.  # \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\" and \"Approximating discrimination within models when faced with several non-binary sensitive attributes\".
 - [https://github.com/eustomaqua/SAEP SAEP], 
 official released code for \"Subarchitecture ensemble pruning in neural architecture search\".
 - [https://github.com/eustomaqua/EPFD EPFD], 
