@@ -14,6 +14,8 @@
 
 === Teaching experience
 # - \"Fairness evaluation in ML. Why would we care?\" Guest lecture in 62533/62T22 "Applied Machine Learning and Big Data" (DTU, lecturer Dr. Lei You), May 2025.
+# slides/lab_non-daad-presentation-Yijun.pdf
+# https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/
 
 - Guest lecture in the DTU course 62533/62T22 "Applied Machine Learning and Big Data" (lecturer Dr. Lei You), titled \"Algorithmic fairness: Misconceptions, evaluation, & limitations\", Apr 2026.
 - Guest lecture in the DTU course 62533/62T22 "Applied Machine Learning and Big Data" (lecturer Dr. Lei You), titled \"Fairness evaluation in ML. Why would we care?\", May 2025.
@@ -28,9 +30,9 @@
 - \"Why we need new fairness metrics and how to use them,\" OR seminar at CMU Tepper, Dec 2025. [slides/pre25_tepper.pdf \[slides\]]
 - \"Why we need new fairness metrics and how to use them,\" Research visit, Georgia Tech, Nov 2025.
 - \"Why we need new fairness metrics and how to use them,\" [https://toc4fairness.org/toc4fairness-seminar-yijun-bian/ TOC4Fairness seminar], Nov 2025.
-- Breaking the Wall of \"Invisible inequality in machine learning research,\" [https://www1.bio.ku.dk/english/calendar/2025/falling-walls-lab-denmark/ Falling Walls Lab Denmark], Sept 2025. [slides/lab_non-daad-presentation-Yijun.pdf \[slides\]]
+- Breaking the Wall of \"Invisible inequality in machine learning research,\" [https://www1.bio.ku.dk/english/calendar/2025/falling-walls-lab-denmark/ Falling Walls Lab Denmark], Sept 2025. [slides/lab_non-daad-presentation.pdf \[slides\]]
 - \"Do existing fairness measures suffice? Assessing discrimination in algorithmic decision-making,\" [https://d3aconference.dk/d3a-3-0/ D3A] workshop on [https://d3aconference.dk/machine-learning-theory-2/ machine learning theory] (Long talk), Aug 2025. [slides/pre25_d3a_mlt.pdf \[slides\]]  # Tutorial, i.e.
-- \"Study of FAIR ML models from a theoretical perspective,\" [https://di.ku.dk/english/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar at DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
+- \"Study of FAIR ML models from a theoretical perspective,\" [https://di.ku.dk/english/events/event-calendar-2024/delta-seminar-by-yijun-bian-study-of-fair-ml-models-from-a-theoretical-perspective/ MIA seminar at DIKU], Dec 2024. [slides/pre24_melanie.pdf \[slides\]]
 - \"Sub-architecture ensemble pruning in neural architecture search\", [https://github.com/saintslab/SustainableML SustainML reading group], Nov 2024.
 - \"Increasing fairness via combination with learning guarantees,\" [https://www.let-all.com/fall23.html Fall 2023 LeT-All mentorship workshop] (Session 2, Practice talk), Oct 2023. [slides/pre23_letall.pdf \[slides\]]
 
