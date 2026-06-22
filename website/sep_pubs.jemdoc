@@ -23,8 +23,6 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 . *Yijun Bian*\* and Yujie Luo, \"Fast discrimination assessment for multiple non-binary sensitive attributes,\" # /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review. # multi-valued
 # [https://arxiv.org/abs/2408.06099 \[arXiv\]]
 [https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
-. *Yijun Bian*\#* and Yujie Luo\#, \"Measuring model-induced discrimination via efficient fairness approximation,\" /arXiv preprint arXiv:2405.09251,/ 2024. Under Review.  # Does machine bring in extra bias in learning? Approximating fairness in models promptly
-[https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
 . Alina Basharat, *Yijun Bian*, Ping Xu*, and Zhi Tian, \"Towards trustworthy federated learning,\" /arXiv preprint arXiv:2503.03684,/ 2025. 
 [https://arxiv.org/abs/2503.03684 \[arXiv\]]
 . Abhijith Sharma\#, *Yijun Bian*\#*, Phil Munz, and Apurva Narayan, \"Adversarial patch attacks and defences in vision-based tasks: A survey,\" /arXiv preprint arXiv:2206.08304,/ 2022. 
@@ -50,12 +48,14 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 === Journal articles
 
+. *Yijun Bian*\#* and Yujie Luo\#, \"Measuring model-induced discrimination via efficient fairness approximation,\" /IEEE Transactions on Neural Networks and Learning Systems,/ accepted.  # Does machine bring in extra bias in learning? Approximating fairness in models promptly (arXiv preprint arXiv:2405.09251, 2024.)
+[https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
 #
 #
 # . Jinghan Huang\#, Qiufeng Chen\#, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, and Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data,\" /arXiv preprint arXiv:2403.06687,/ 2024. # Under Review.
 . Jinghan Huang\#, Qiufeng Chen\#, Pengli Zhu, *Yijun Bian*, Nanguang Chen, Moo K. Chung, and Anqi Qiu*, \"HL-HGAT: Heterogeneous graph attention network via Hodge-Laplacian operator,\" /IEEE Transactions on Pattern Analysis and Machine Intelligence,/ # accepted, 2025.
 vol. 47, no. 12, pp. 11022--11039, Dec 2025.
-[https://arxiv.org/abs/2403.06687 \[arXiv\]][https://github.com/JH-415/HL-HGAT \[code\]][https://ieeexplore.ieee.org/document/11106311 \[paper\]][https://doi.org/10.1109/TPAMI.2025.3594226 \[doi\]]
+[https://arxiv.org/abs/2403.06687 \[arXiv\]][https://github.com/JH-415/HL-HGAT \[code\]][https://ieeexplore.ieee.org/document/11106311 \[paper\]][https://doi.org/10.1109/TPAMI.2025.3594226 \[doi\]][pdf/11106311.pdf \[pdf\]]
 . Ming Chen, *Yijun Bian*, Nanguang Chen, and Anqi Qiu*, \"Orthogonal mixed-effects modeling for high-dimensional longitudinal data: An unsupervised learning approach,\" /IEEE Transactions on Medical Imaging,/ 
 vol. 44, no. 1, pp. 207--220, Jan 2025.  # accepted.
 [https://ieeexplore.ieee.org/abstract/document/10616022 \[paper\]][https://github.com/MChen808/UOMETM \[code\]][https://doi.org/10.1109/TMI.2024.3435855 \[doi\]][pdf/10616022.pdf \[pdf\]]
