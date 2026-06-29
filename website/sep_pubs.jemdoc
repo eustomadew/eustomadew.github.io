@@ -18,7 +18,7 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 
 
 
-. *Yijun Bian**, Lei You, Yuya Sasaki, Haruka Maeda, and Akira Igarashi, \"Revisiting some misconceptions and limitations in algorithmic fairness,\" /arXiv preprint arXiv:2506.12556,/ 2025. Under Review.
+. *Yijun Bian**, Lei You, Yuya Sasaki, Haruka Maeda, and Akira Igarashi, \"Revisiting some misconceptions and limitations in algorithmic fairness,\" /arXiv preprint arXiv:2506.12556,/ 2025. # Under Review.
 [https://arxiv.org/abs/2506.12556 \[arXiv\]][https://github.com/eustomaqua/AssessBias \[code\]]
 . *Yijun Bian*\* and Yujie Luo, \"Fast discrimination assessment for multiple non-binary sensitive attributes,\" # /arXiv preprint arXiv:2408.06099,/ 2024. # Under Review. # multi-valued
 # [https://arxiv.org/abs/2408.06099 \[arXiv\]]
@@ -34,10 +34,10 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 # arXiv preprint arXiv:2505.11111, 2025. Under Review. The Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics
 # software,package,release arXiv preprint arXiv:2410.05419, 2024 # Refining counterfactual explanations with joint-distribution-informed Shapley towards actionable minimality, Fourteenth
 # . *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. # Under Review. 
-# to appear
+# to appear # accepted.
 
-. *Yijun Bian**, \"Improving fairness with ensemble combination: Margin-dependent bounds,\" in /the 9th annual ACM Conference on Fairness, Accountability, and Transparency (FAccT 2026),/ accepted. # June 25--28, 2026, Montreal, QC, Canada.
-[https://arxiv.org/abs/2301.10813 \[arXiv\]][https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]][https://openreview.net/forum?id=Zgu58Dg2Yb \[openreview\]][https://zenodo.org/records/19425886 \[data\]][https://doi.org/10.1145/3805689.3806539 \[doi\]]
+. *Yijun Bian**, \"Improving fairness with ensemble combination: Margin-dependent bounds,\" in /the 9th annual ACM Conference on Fairness, Accountability, and Transparency (FAccT 2026),/ pp. 352--381, June 25--28, 2026, Montreal, QC, Canada.
+[https://arxiv.org/abs/2301.10813 \[arXiv\]][https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]][https://openreview.net/forum?id=Zgu58Dg2Yb \[openreview\]][https://zenodo.org/records/19425886 \[data\]][https://dl.acm.org/doi/10.1145/3805689.3806539 \[doi\]][slides/pre26_facct.pdf \[slides\]] # [posters/video1125518977.mp4 \[talk\]] https://doi.org/10.1145/3805689.3806539
 . Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" in /the 29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026),/ May 2--5, 2026, Tangier, Morocco.
 [https://arxiv.org/abs/2505.11111 \[arXiv\]][https://github.com/youlei202/FairSHAP \[code\]][https://openreview.net/forum?id=Ns2v9TPSMc \[openreview\]][https://cspaper.org/openprint/20260412.0001v1 \[openprint\]][posters/2026_FairSHAP_poster.pdf \[poster\]]
 . Lei You\*, *Yijun Bian*, and Lele Cao, \"Joint distribution-informed Shapley values for sparse counterfactual explanations,\" in /the 40th International Conference on Learning Representations (ICLR 2026),/ April 23--27, 2026, Rio de Janeiro, RJ, Brazil.
