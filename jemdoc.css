@@ -62,7 +62,19 @@ a, a > tt {
   text-decoration: none;
 }
 
+/*  /* 未访问的链接颜色 * /
+a:link {
+    color: #0066cc; /* 将这里的颜色代码替换为你想要的颜色 * /
+    text-decoration: none; /* 去掉下划线，若不需要可删除这行 * /
+}
+/* 鼠标悬停时的链接颜色 * /
 a:hover {
+    color: #ff3300; 
+    text-decoration: underline; /* 悬停时显示下划线 * /
+}  */
+
+a:hover {
+  color: #ff3333; /* https://zh.spycolor.com/web-safe-colors */
   border-bottom: 1px gray dotted;
 }
 
