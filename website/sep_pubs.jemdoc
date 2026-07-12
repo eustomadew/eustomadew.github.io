@@ -37,7 +37,7 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 # to appear # accepted.
 
 . *Yijun Bian**, \"Improving fairness with ensemble combination: Margin-dependent bounds,\" in /Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT '26),/ pp. 352--381, June 25--28, 2026, Montreal, QC, Canada.
-[https://arxiv.org/abs/2301.10813 \[arXiv\]][https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]][https://openreview.net/forum?id=Zgu58Dg2Yb \[openreview\]][https://zenodo.org/records/19425886 \[data\]][https://dl.acm.org/doi/10.1145/3805689.3806539 \[doi\]][slides/pre26_facct.pdf \[slides\]] # [posters/video1125518977.mp4 \[talk\]] 9th annual https://doi.org/10.1145/3805689.3806539
+[https://arxiv.org/abs/2301.10813 \[arXiv\]][https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]][https://openreview.net/forum?id=Zgu58Dg2Yb \[openreview\]][https://zenodo.org/records/19425886 \[data\]][https://doi.org/10.1145/3805689.3806539 \[doi\]][slides/pre26_facct.pdf \[slides\]] # [posters/video1125518977.mp4 \[talk\]] 9th annual
 . Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" in /the 29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026),/ May 2--5, 2026, Tangier, Morocco.
 [https://arxiv.org/abs/2505.11111 \[arXiv\]][https://github.com/youlei202/FairSHAP \[code\]][https://openreview.net/forum?id=Ns2v9TPSMc \[openreview\]][https://cspaper.org/openprint/20260412.0001v1 \[openprint\]][posters/2026_FairSHAP_poster.pdf \[poster\]]
 . Lei You\*, *Yijun Bian*, and Lele Cao, \"Joint distribution-informed Shapley values for sparse counterfactual explanations,\" in /the 40th International Conference on Learning Representations (ICLR 2026),/ April 23--27, 2026, Rio de Janeiro, RJ, Brazil.
@@ -49,8 +49,8 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 === Journal articles
 
 . *Yijun Bian*\#* and Yujie Luo\#, \"Measuring model-induced discrimination via efficient fairness approximation,\" /IEEE Transactions on Neural Networks and Learning Systems,/ accepted.  # Does machine bring in extra bias in learning? Approximating fairness in models promptly (arXiv preprint arXiv:2405.09251, 2024.)
-[https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]]
-#
+[https://arxiv.org/abs/2405.09251 \[arXiv\]][https://github.com/eustomaqua/ApproxBias \[code\]][https://approxbias.readthedocs.io/en/latest/ \[doc\]][https://doi.org/10.1109/TNNLS.2026.3706648 \[doi\]][https://doi.org/10.5281/zenodo.21263075 \[data\]]
+# [http \[paper\]]
 #
 # . Jinghan Huang\#, Qiufeng Chen\#, *Yijun Bian*, Pengli Zhu, Nanguang Chen, Moo K. Chung, and Anqi Qiu*, \"Advancing graph neural networks with HL-HGAT: A Hodge-Laplacian and attention mechanism approach for heterogeneous graph-structured data,\" /arXiv preprint arXiv:2403.06687,/ 2024. # Under Review.
 . Jinghan Huang\#, Qiufeng Chen\#, Pengli Zhu, *Yijun Bian*, Nanguang Chen, Moo K. Chung, and Anqi Qiu*, \"HL-HGAT: Heterogeneous graph attention network via Hodge-Laplacian operator,\" /IEEE Transactions on Pattern Analysis and Machine Intelligence,/ # accepted, 2025.
@@ -76,7 +76,7 @@ vol. 44, no. 1, pp. 207--220, Jan 2025.  # accepted.
 # == Released code of projects
 == Open-source code & official implementation for research papers
 - [https://github.com/eustomaqua/FairML FairML], official code to reproduce the methodology funded by the [https://doi.org/10.3030/101106768 FairML] project.
-- [https://github.com/eustomaqua/AssessBias AssessBias], official code for \"Algorithmic fairness: Not a purely technical but socio-technical property.\"
+- [https://github.com/eustomaqua/AssessBias AssessBias], official code for \"Revisiting some misconceptions and limitations in algorithmic fairness\". # \"Algorithmic fairness: Not a purely technical but socio-technical property.\"
 - [https://github.com/eustomaqua/PyFairness PyFairness], an open-source library for fairness measures and ensemble methods, for reproducing our work.
 - [https://github.com/eustomaqua/ApproxBias ApproxBias], official released code for the efficient discrimination assessments from a manifold perspective.  # \"Does machine bring in extra bias in learning? Approximating fairness in models promptly\" and \"Approximating discrimination within models when faced with several non-binary sensitive attributes\".
 - [https://github.com/eustomaqua/SAEP SAEP], 
