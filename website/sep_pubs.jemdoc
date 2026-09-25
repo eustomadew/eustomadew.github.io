@@ -36,6 +36,7 @@ Works listed as first/corresponding author (\*) and equal contributions (\#); se
 # . *Yijun Bian** and Kun Zhang, \"Increasing fairness via combination with learning guarantees,\" /arXiv preprint arXiv:2301.10813,/ 2023. # Under Review. 
 # to appear # accepted.
 
+. Huayang Liu, Mingyu Zheng, Wei Zhang, *Yijun Bian*, Kai Wang, \"SurvCancel: A longitudinal dataset and benchmark for dynamic order cancellation prediction in on-demand ride-sharing systems,\" in /the 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026) Evaluations and Datasets Track,/ accepted.
 . *Yijun Bian**, \"Improving fairness with ensemble combination: Margin-dependent bounds,\" in /Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT '26),/ pp. 352--381, June 25--28, 2026, Montreal, QC, Canada.
 [https://arxiv.org/abs/2301.10813 \[arXiv\]][https://github.com/eustomaqua/FairML \[code\]][https://fairml.readthedocs.io/en/latest/ \[doc\]][https://openreview.net/forum?id=Zgu58Dg2Yb \[openreview\]][https://zenodo.org/records/19425886 \[data\]][https://doi.org/10.1145/3805689.3806539 \[doi\]][slides/pre26_facct.pdf \[slides\]] # [posters/video1125518977.mp4 \[talk\]] 9th annual
 . Lin Zhu\#, *Yijun Bian*\#, and Lei You\*, \"FairSHAP: Preprocessing for fairness through attribution-based data augmentation,\" in /the 29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026),/ May 2--5, 2026, Tangier, Morocco.
